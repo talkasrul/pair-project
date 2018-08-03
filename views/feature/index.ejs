@@ -1,0 +1,24 @@
+<%- include('../header') %>
+
+<h3>Data Features</h3>
+
+<a href="/features/add"> Add Feature</a>
+<p style="color: green"><%=msg%></p>
+
+<table border=1 width="80">
+    <tr>
+        <th>No</th>
+        <th>Feature Name</th>
+        <th>Status</th>
+        <th>Action</th>
+    </tr>
+
+    <% let no = 1; features.forEach( feature => {%>
+    <tr>
+        <td><%= no++ %></td>
+        <td><%= feature.name %></td>
+        <td><%= feature.status %></td>
+        <td> <a href="/features/<%= feature.id %>/edit">Edit</a> | <a href="/features/<%= feature.id %>/delete">Delete</a></td>
+    </tr>
+    <% }) %>
+</table>

@@ -1,0 +1,33 @@
+<%- include('../header') %>
+
+<h3>Add Data Project</h3>
+<p style="color: red"><%=msg%></p>
+<form action="/projects" method="post">
+    <table>
+        <tr>
+            <td>Project Name </td>
+            <td>:</td>
+            <td><input type="text" name="name"></td>
+        </tr>
+        <tr>
+            <td>Start At </td>
+            <td>:</td>
+            <td><input type="date" name="startAt"></td>
+        </tr>
+        <tr>
+            <td>Dead Line </td>
+            <td>:</td>
+            <td><input type="date" name="deadLine"></td>
+        </tr>
+        <tr>
+            <td>Description </td>
+            <td>:</td>
+            <td><textarea name="description" cols="30" rows="10"></textarea></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td><input type="submit" value="Save"></td>
+        </tr>
+    </table>
+</form>

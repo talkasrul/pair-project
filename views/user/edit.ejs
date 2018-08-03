@@ -1,0 +1,33 @@
+<%- include('../header') %>
+
+<h3>Edit Data User <%= user.name%></h3>
+<p style="color: red"><%=msg%></p>
+<form action="/users/<%= user.id%>/update" method="post">
+    <table>
+        <tr>
+            <td>Username </td>
+            <td>:</td>
+            <td><input type="text" name="username" value="<%= user.username%>"></td>
+        </tr>
+        <tr>
+            <td>Password </td>
+            <td>:</td>
+            <td><input type="text" name="password"></td>
+        </tr>
+        <tr>
+            <td>Name </td>
+            <td>:</td>
+            <td><input type="text" name="name" value="<%= user.name%>"></td>
+        </tr>
+        <tr>
+            <td>Address </td>
+            <td>:</td>
+            <td><textarea name="address" cols="30" rows="10"><%= user.address%></textarea></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td><input type="submit" value="Update"></td>
+        </tr>
+    </table>
+</form>

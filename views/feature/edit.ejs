@@ -1,0 +1,18 @@
+<%- include('../header') %>
+
+<h3>Edit Data feature <%= feature.name%></h3>
+<p style="color: red"><%=msg%></p>
+<form action="/features/<%= feature.id%>/update" method="post">
+    <table>
+        <tr>
+            <td>Feature Name </td>
+            <td>:</td>
+            <td><input type="text" name="name" value="<%= feature.name%>"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td><input type="submit" value="Update"></td>
+        </tr>
+    </table>
+</form>
