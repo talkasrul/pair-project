@@ -4,9 +4,17 @@ module.exports = {
     index: (req, res) => {
         Model
             .Project
-            .all()
+            .all(
+                {
+                    include: {
+                        model: Model.Feature, 
+                        include: Model.User 
+                    }
+                }
+            )
             .then( projects => {
-                res.render('project/index', {projects})
+                res.json(projects)
+                // res.render('project/index', {projects})
             })
     },
 

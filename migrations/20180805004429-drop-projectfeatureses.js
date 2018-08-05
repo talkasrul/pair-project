@@ -2,7 +2,7 @@
 
 module.exports = {
   up: (queryInterface, Sequelize) => {
-    return queryInterface.changeColumn('Features', 'status', { type: Sequelize.BOOLEAN , defaultValue: false});
+    return queryInterface.dropTable('ProjectFeatures');
     /*
       Add altering commands here.
       Return a promise to correctly handle asynchronicity.

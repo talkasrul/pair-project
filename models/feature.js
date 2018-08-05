@@ -11,12 +11,9 @@ module.exports = (sequelize, DataTypes) => {
     UserId: DataTypes.INTEGER
   }, {});
   Feature.associate = function(models) {
-    let User = models.User
-    Feature.belongsTo(User)
+    Feature.belongsTo(models.User)
 
-    let Project = models.Project
-    let ProjectFeature = models.ProjectFeatures
-    // Project.belongsToMany(Feature, {through:ProjectFeature, foreignKey: 'FeatureId'})
+    Feature.belongsToMany(models.Project, {through:models.ProjectFeature})
     
 
   };

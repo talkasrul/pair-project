@@ -21,9 +21,7 @@ module.exports = (sequelize, DataTypes) => {
     }}},
   }, {});
   Project.associate = function(models) {
-    let Feature = models.Feature
-    let ProjectFeature = models.ProjectFeatures
-    // Project.belongsToMany(Feature, {through:ProjectFeature, foreignKey: 'ProjectId'})
+    Project.belongsToMany(models.Feature, {through:models.ProjectFeature})
   };
   return Project;
 };
