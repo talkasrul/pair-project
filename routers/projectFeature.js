@@ -5,7 +5,7 @@ const ProjectFeatureController = require('../controllers/ProjectFeatureControlle
 
 router.get('/', ProjectFeatureController.index)
 router.post('/', ProjectFeatureController.create)
-router.get('/add', ProjectFeatureController.add)
+router.get('/add',  ProjectFeatureController.add)
 router.get('/:id/edit', ProjectFeatureController.edit)
 router.post('/update', ProjectFeatureController.update)
 router.get('/:id/delete', ProjectFeatureController.delete)

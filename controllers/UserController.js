@@ -1,4 +1,5 @@
 const Model = require('../models')
+const encrypHelper = require('../helpers/encriptHelpers')
 
 module.exports = {
     index: (req, res) => {
@@ -9,6 +10,13 @@ module.exports = {
                 // res.json(users)
                 res.render('user/index', {users})
             })
+
+        // Model
+        //     .User
+        //     .findById(1)
+        //     .then( user => {
+        //         console.log(encrypHelper('data', user.username))
+        //     })
     },
 
     add: (req, res) => {
@@ -65,4 +73,30 @@ module.exports = {
                 res.redirect('/users?msg=Success for delete a user')
             })
     },
+
+    login: (req, res) => {
+        res.render('user/login')
+    },
+
+    dologin: (req, res) => {
+        let username = req.body.username
+        let password = req.body.password
+        Model  
+            .User
+            .findOne({where:{
+                username: username,
+                password: password
+            }})
+            .then( user => {
+                if(user.username == username && user.password == password) {
+                    let objSession = {
+                        id : user.id,
+                        username : user.username
+                    }
+                    req.session.user = objSession
+                    res.redirect('/')
+                }
+                
+            })
+    }
 }

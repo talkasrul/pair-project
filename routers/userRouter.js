@@ -10,4 +10,8 @@ router.get('/:id/edit', UserController.edit)
 router.post('/:id/update', UserController.update)
 router.get('/:id/delete', UserController.delete)
 
+router.get('/login', UserController.login)
+router.post('/dologin', UserController.dologin)
+
+
 module.exports = router
