@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- ▢ Memastikan kamu sudah memahami istilah dasar penyusun website.
+- Memastikan kamu sudah memahami istilah dasar penyusun website.
 
 ## Learnings
 
