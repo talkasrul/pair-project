@@ -85,7 +85,7 @@ Tugas :
 [[**Latihan Pribadi 5**] Membuat Branch Baru pada Repositori](./modules/git-branch-anchor.md)
 
 
-## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
+## Jumat - Langkah Menjadi Expert HTML dan CSS!
 Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
 menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
@@ -97,7 +97,7 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercise 3**] - Website yang dihosting dengan Github Pages](./modules/github-pages-rev.md)
+[[**Exercise 3**] - Website yang dihosting dengan Github Pages](./modules/github-pages-rev.md) - `dicek dihari minggu`
 -  [Blogging teknikal terkait skill pekan ini](./modules/blog.md)
 
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
