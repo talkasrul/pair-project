@@ -1,10 +1,10 @@
-# Hacktiv8 Phase 0 Week 3: Arrays and Logics
+# Week 3: Arrays and Logics
 
 ![Header](assets/header-w3.jpg)
 
 Selamat sudah melalui kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang logika dan implementasinya ke berbagai kasus. Pastikan kalian telah memahami dengan baik materi di minggu sebelum nya.
 
-Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena mulai pekan 3 ini setiap hari nya ada challenge coding yang menentukan kelanjutan ke phase 1 :bowtie: , dan semua challenge yang bertanda :anchor: ini wajib diselesaikan.
+Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena mulai pekan 3 ini setiap hari nya ada challenge coding yang menentukan kelanjutan ke step 2 :bowtie: , dan semua challenge yang bertanda :anchor: ini wajib diselesaikan.
 
 ![Let's start!](assets/start.png)
 
@@ -86,13 +86,11 @@ Tugas :
 
 ## Sabtu dan Minggu
 
-- [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
-- [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
+- [Refleksi kegiatan pekan ini](./modules/reflection.md)
+- [Blogging teknikal terkait skill pekan ini](./modules/blog.md)
 
 Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,
 
-Tim Hacktiv8
-
-![Hacktiv8 Banner](assets/banner.png)
+Tim Aa Academy
