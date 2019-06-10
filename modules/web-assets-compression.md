@@ -4,8 +4,8 @@
 
 Meningkatkan kecepatan *loading* aplikasi web dengan memperhatikan aset-aset seperti gambar, CSS, JavaScript, dan file statiC lainnya. Semakin besar ukuran file-file statiC diatas, semakin lambat pula web yang kamu kembangkan. Dan semakin banyak pula pengguna yang tidak sabar untuk segera meninggalkan web kamu karena tidak sabar menunggu web kamu untuk *loading*. Karena itu mempercepat aplikasi web kita adalah hal yang esensial.
 
-- ▢ Mampu mengoptimalkan proses *loading* JavaScript
-- ▢ Memahami alasan mengapa kita butuh metode *minifying* dan *combining*.
+- Mampu mengoptimalkan proses *loading* JavaScript
+- Memahami alasan mengapa kita butuh metode *minifying* dan *combining*.
 
 ## Directions
 

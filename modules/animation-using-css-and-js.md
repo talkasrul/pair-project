@@ -6,9 +6,9 @@ Tahukah kamu, bahwa kita bisa membuat animasi sederhana dengan CSS dan HTML? Ada
 
 **DOM**
 
-- ▢ Memahami CSS Pseudo-class Selector
-- ▢ Memahami CSS transition
-- ▢ Memahami JS SetTimeout function
+- Memahami CSS Pseudo-class Selector
+- Memahami CSS transition
+- Memahami JS SetTimeout function
 
 ## Learnings
 

@@ -6,7 +6,7 @@ Blockly Games merupakan sekumpulan permainan edukatif yang mengajarkan programmi
 
 ## Directions
 
-- ▢ Kunjungi <https://blockly-games.appspot.com>, lalu mainkan berbagai level berikut sesukamu:
+- Kunjungi <https://blockly-games.appspot.com>, lalu mainkan berbagai level berikut sesukamu:
   - Puzzle
   - Maze
   - Bird

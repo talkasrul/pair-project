@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- ▢ Memahami struktur alur program dengan algoritma dan pseudocode
+- Memahami struktur alur program dengan algoritma dan pseudocode
 
 ## Learnings
 
@@ -22,7 +22,7 @@ Algoritma bisa sesederhana kita jabarkan langkah-langkahnya seperti tadi, atau k
 
 ![Algorithm Illustration](assets/algorithm.png)
 
-- ▢ Tonton video ini jika perlu: [What is an algorithm and why should you care? - Intro to algorithms on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)
+- Tonton video ini jika perlu: [What is an algorithm and why should you care? - Intro to algorithms on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)
 
 ### Basic Simbol / Notasi Flowchart
 

@@ -2,8 +2,8 @@
 
 ## Objectives
 
-- ▢ Mengenal berbagai wawasan yang ada di dalam dunia developer profesional sungguhan
-- ▢ Mengetahui berbagai kiat mendapatkan pekerjaan sebagai developer, dan hal relevan lainnya
+- Mengenal berbagai wawasan yang ada di dalam dunia developer profesional sungguhan
+- Mengetahui berbagai kiat mendapatkan pekerjaan sebagai developer, dan hal relevan lainnya
 
 ## Learnings
 

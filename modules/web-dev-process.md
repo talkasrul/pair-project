@@ -24,11 +24,11 @@ Yuk kita kenali teknik perencanaan, proses, dan manajemen pengembangan web. Agar
 
 Buatlah sebuah halaman `web-dev.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya.
 
-- ▢ Website apa yang paling ingin kamu buat? Tentang apa?
-- ▢ Hasil atau informasi apa yang paling ingin kamu sampaikan?
-- ▢ Bagaimana kira-kira kamu memproses pembuatan website dari awal hingga akhir?
+- Website apa yang paling ingin kamu buat? Tentang apa?
+- Hasil atau informasi apa yang paling ingin kamu sampaikan?
+- Bagaimana kira-kira kamu memproses pembuatan website dari awal hingga akhir?
 
 Setelah selesai...
 
-- ▢ Commit dan push file tersebut ke GitHub.
-- ▢ Share hasil kamu di Slack.
+- Commit dan push file tersebut ke GitHub.
+- Share hasil kamu di Slack.

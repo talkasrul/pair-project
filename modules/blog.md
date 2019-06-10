@@ -17,18 +17,18 @@ Setiap blog post bertujuan untuk:
 ### 1. Buat blog kamu menggunakan Web yang telah dibuat di tugas sebelumnya
 ### 2. Buat blog post
 
-- ▢ Rangkumlah bahan topik yang sudah dipelajari. Mengenai mengapa menggunakan, bagaimana cara pakainya, dan apa saja hal-hal tersebut. Tunjukkan contoh code dan screenshot jika ada.
-- ▢ Tulislah blog post yang menceritakan hal apa saja yang sudah kamu pahami dan pelajari.
-- ▢ Sertakan berbagai sumber/URL yang sudah kamu dapat dan temukan.
+- Rangkumlah bahan topik yang sudah dipelajari. Mengenai mengapa menggunakan, bagaimana cara pakainya, dan apa saja hal-hal tersebut. Tunjukkan contoh code dan screenshot jika ada.
+- Tulislah blog post yang menceritakan hal apa saja yang sudah kamu pahami dan pelajari.
+- Sertakan berbagai sumber/URL yang sudah kamu dapat dan temukan.
 
-**Catatan:** Jika sudah ada template, copy template yang sudah kamu buat, rename sesuai tanggal dan judul yang direncanakan. Misalnya `2016-12-30_hacktiv8-experience-week-1.html` atau `beginning-hacktiv8-adventure.html`.
+**Catatan:** Jika sudah ada template, copy template yang sudah kamu buat, rename sesuai tanggal dan judul yang direncanakan. Misalnya `2016-12-30_experience-week-1.html` atau `beginning-adventure.html`.
 
 ### 3. Submit blog post
 
-- ▢ Save dan publish blog post tersebut.
-- ▢ Link blog post kamu ke index website kamu.
-- ▢ Share hasil kamu di Slack. Bahkan boleh juga di Facebook, Twitter, dan lainnya.
-- ▢ Jika ada, bagilah informasi atau artikel bermanfaat lainnya juga.
+- Save dan publish blog post tersebut.
+- Link blog post kamu ke index website kamu.
+- Share hasil kamu di Slack. Bahkan boleh juga di Facebook, Twitter, dan lainnya.
+- Jika ada, bagilah informasi atau artikel bermanfaat lainnya juga.
 
 **Catatan:** Jika meng-update website pribadi, selalu ingat untuk commit dan push file blog post tersebut ke GitHub.
 

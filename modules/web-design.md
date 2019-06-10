@@ -6,8 +6,8 @@ Kebanyakan orang mengira bahwa web dan website seringkali bentuk atau desainnya 
 
 Zaman sekarang, seluruh website yang bagus dan baik tentunya memiliki versi mobile-nya. Untuk mengakomodasi kebutuhan mobile, ada banyak teknik yang dapat diimplementasikan. Awal mulanya, mayoritas website memisahkan halaman web utama (`example.com`) dengan versi mobile-nya (`m.example.com`). Kini hanya dengan domain yang sama kita bisa membuat desain menyesuaikan secara responsif maupun adaptif dengan ukuran layar, sifat device yang digunakan, dan berbagai parameter lainnya. Berbagai teknik desain ini adalah sebagaian cara agar developer dapat membuat website menjadi lebih mudah digunakan, dikelola, dan beradaptasi dengan device dan browser yang baru. Untuk itu, kita harus tahu apa saja yang dibutuhkan untuk menghasilkan website dengan teknik tersebut.
 
-- ▢ Mampu memahami desain responsif maupun adaptif.
-- ▢ Menentukan kapan desain responsif maupun adaptif merupakan solusi yang tepat atau tidak.
+- Mampu memahami desain responsif maupun adaptif.
+- Menentukan kapan desain responsif maupun adaptif merupakan solusi yang tepat atau tidak.
 
 ## Directions
 

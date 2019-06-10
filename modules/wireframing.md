@@ -32,14 +32,14 @@ Untuk semua website yang sudah kamu evaluasi sebelumnya, cobalah untuk merekayas
 
 Buatlah sebuah halaman `wireframes.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya.
 
-- ▢ Jabarkan masalah apa yang halaman web tersebut ingin pecahkan melalui tampilan visual?
-- ▢ Buatlah wireframe tiap halaman yang sudah dipilih. Kamu bisa menggunakan kertas dan pulpen saja (yang kemudian nanti difoto), maupun tool wireframing digital (yang bisa di-export atau screenshot).
-- ▢ Kumpulkan hasil wireframe yang sudah kamu buat ke dalam satu folder. Tampilkan pada halaman.
+- Jabarkan masalah apa yang halaman web tersebut ingin pecahkan melalui tampilan visual?
+- Buatlah wireframe tiap halaman yang sudah dipilih. Kamu bisa menggunakan kertas dan pulpen saja (yang kemudian nanti difoto), maupun tool wireframing digital (yang bisa di-export atau screenshot).
+- Kumpulkan hasil wireframe yang sudah kamu buat ke dalam satu folder. Tampilkan pada halaman.
 
 Setelah selesai...
 
-- ▢ Commit dan push file tersebut ke GitHub.
-- ▢ Share hasil kamu di Slack.
+- Commit dan push file tersebut ke GitHub.
+- Share hasil kamu di Slack.
 
 ## References
 

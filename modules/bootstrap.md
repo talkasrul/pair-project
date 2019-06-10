@@ -4,10 +4,10 @@
 
 Pada tantangan ini tidak terdapat tujuan spesifik, tujuannya hanya untuk memberi kesempatan bagi kamu untuk mencoba-coba dan bereksplorasi tanpa bimbingan spesifik.
 
-- ▢ Memahami kegunaan framework.
-- ▢ Memasang framework Bootstrap pada project.
-- ▢ Menggunakan komponen Bootstrap yang sudah siap pakai.
-- ▢ Berlatih membaca dokumentasi dari sebuah tool, library, framework, atau aplikasi.
+- Memahami kegunaan framework.
+- Memasang framework Bootstrap pada project.
+- Menggunakan komponen Bootstrap yang sudah siap pakai.
+- Berlatih membaca dokumentasi dari sebuah tool, library, framework, atau aplikasi.
 
 ## Directions
 

@@ -6,5 +6,5 @@ Code Combat merupakan permainan belajar programming yang multiplayer. Anggaplah 
 
 ## Directions
 
-- ▢ Kunjungi <https://codecombat.com/courses?_cc=SwordNiceSpoon>, lalu sign up sebuah akun agar dapat bergabung di Hacktiv8 Course
-- ▢ Pilih hero kamu, lalu mainkan berbagai level yang ada.
+- Kunjungi <https://codecombat.com/courses?_cc=SwordNiceSpoon>, lalu sign up sebuah akun agar dapat bergabung di Hacktiv8 Course
+- Pilih hero kamu, lalu mainkan berbagai level yang ada.

@@ -2,10 +2,10 @@
 
 ## Objectives
 
-- ▢ Menggunakan berbagai ilmu pengembangan web yang sudah didapat.
-- ▢ Mengolah potensi kreatifitas yang ada dalam diri.
-- ▢ Menggambarkan pemahaman desain web dan pengalaman pengguna.
-- ▢ Berlatih mengimplementasikan proses pembuatan website lebih baik.
+- Menggunakan berbagai ilmu pengembangan web yang sudah didapat.
+- Mengolah potensi kreatifitas yang ada dalam diri.
+- Menggambarkan pemahaman desain web dan pengalaman pengguna.
+- Berlatih mengimplementasikan proses pembuatan website lebih baik.
 
 ## Directions
 
@@ -77,16 +77,16 @@ Berikut berbagai contoh dan inspirasi personal website.
 
 Tiba saatnya dalam hal favorit yang paling dinantikan oleh semua web developer: membuat ulang website kamu yang terdapat di `[USERNAME].github.io` dengan lebih baik! Beberapa orang melakukannya sebagai hobi yang seru, karena kita bisa mengekspresikan diri sekaligus bereksperimen dengan berbagai teknologi web. Sertakan minimal nama dan hal-hal favoritmu! Kreasikan dirimu. Ingat juga untuk link semua halaman hasil kegiatan buatanmu.
 
-- ▢ Rencanakan bentuk terbaru website baru kamu. Tulis sebuah rencana kemudian commit dan push detail tersebut.
-- ▢ Buatlah wireframe website kamu. Gunakan tools yang kamu prefer.
-- ▢ Kumpulkan berbagai media yang diperlukan. Gambar atau video, kemudian taruh di repositori atau bisa juga upload ke layanan berbagi gambar atau video seperti imgur atau YouTube.
-- ▢ Implementasikan perencanaan dan wireframe. Code website kamu dengan HTML, CSS, dan JavaScript.
-- ▢ Susun kumpulan media yang ada ke halaman web kamu.
+- Rencanakan bentuk terbaru website baru kamu. Tulis sebuah rencana kemudian commit dan push detail tersebut.
+- Buatlah wireframe website kamu. Gunakan tools yang kamu prefer.
+- Kumpulkan berbagai media yang diperlukan. Gambar atau video, kemudian taruh di repositori atau bisa juga upload ke layanan berbagi gambar atau video seperti imgur atau YouTube.
+- Implementasikan perencanaan dan wireframe. Code website kamu dengan HTML, CSS, dan JavaScript.
+- Susun kumpulan media yang ada ke halaman web kamu.
 
 Setelah selesai...
 
-- ▢ Commit dan push file tersebut ke GitHub.
-- ▢ Share hasil kamu di Slack.
+- Commit dan push file tersebut ke GitHub.
+- Share hasil kamu di Slack.
 
 ## References
 
