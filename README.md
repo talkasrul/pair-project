@@ -1,6 +1,6 @@
 # AA Academy Step 1
 
-Step 1 adalah aktivitas yang mempersiapkan murid untuk mampu memahami dan masuk ke dalam Step 2 Program *Full-Stack JavaScript Development* Course di AA Academy. Repositori ini digunakan sebagai acuan untuk pembelajaran dan bersifat wajib untuk dipelajari dan dikerjakan untuk berkesempatan melanjutkan ke dalam Step 2.
+Step 1 adalah aktivitas yang mempersiapkan murid untuk mampu memahami dan masuk ke dalam Step 2 Program *Master Javascript* Course di AA Academy. Repositori ini digunakan sebagai acuan untuk pembelajaran dan bersifat wajib untuk dipelajari dan dikerjakan untuk berkesempatan melanjutkan ke dalam Step 2.
 
 Materi di bagi ke dalam enam minggu, yang tiap minggu nya terdiri dari berbagai fokus materi. Kebanyakan dari materi dan tantangan yang tertera pada repositori ini hanya dapat di akses oleh murid yang sedang aktif di dalam step 1.
 
@@ -8,18 +8,32 @@ Materi di bagi ke dalam enam minggu, yang tiap minggu nya terdiri dari berbagai 
 ### [Week 2: Mengenal JavaScript](./README-WEEK-2.md)
 ### [Week 3: Mendalami JavaScript](./README-WEEK-3.md)
 ### [Week 4: Bermain Logic di JavaScript](./README-WEEK-4.md)
-### [Week 5: Bermain Logic di JavaScript](./README-WEEK-5.md)
+### [Week 5: Bermain Logic di JavaScript Lanjutan](./README-WEEK-5.md)
 ### [Week 6: Menguasai JavaScript ES6 dan Paradigma Programming](./README-WEEK-6.md)
 
-## Challenges 
+## Pengingat Tugas Saja 
 
 Berikut adalah list challenges yang wajib diselesaikan karena akan diperhitungkan sebagai completion rate.
-List di bawah ini merupakan summary dari kegiatan week 2 - 4 yang bertanda :anchor:
-Pedoman :
-- [Week 2](./README-WEEK-2.md)
-- [Week 3](./README-WEEK-3.md)
-- [Week 4](./README-WEEK-4.md)
 
+## Week 1
+
+- :anchor:
+[[**Exercises 1**] Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
+- 💪
+[[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](./modules/anchor-laman-web-pertamaku.md)
+- :anchor: [[**Exercises 2**] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
+- 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](./modules/anchor-css-selector-and-styling.md)
+- 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](./modules/anchor-css-layouting.md)
+- 💪
+[[**Latihan Pribadi 4**] Mempelajari Markdown dan Membuat README.md](./modules/markdown-anchor.md)
+- 💪
+[[**Latihan Pribadi 5**] Membuat Branch Baru pada Repositori](./modules/git-branch-anchor.md)
+- :anchor:
+[[**Exercise 3**] - Website yang dihosting dengan Github Pages](./modules/github-pages-rev.md) - `dicek dihari minggu`
+-  [Blogging teknikal terkait skill pekan ini](./modules/blog.md)
+
+
+<!--
 ## Week 2 (13 poin)
 
 1. Membuat thinking.html / leaarning.html
@@ -62,4 +76,4 @@ Pedoman :
 3. Challenge-Promo Menu
 4. Challenge-Recursive is Even Number
 5. Challenge-Promo Credit Card
-6. Challenge-Recursive Angka Kuadrat
+6. Challenge-Recursive Angka Kuadrat -->
