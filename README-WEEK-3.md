@@ -87,7 +87,6 @@ Tugas :
 ## Sabtu dan Minggu
 
 - [Refleksi kegiatan pekan ini](./modules/reflection.md)
-- [Blogging teknikal terkait skill pekan ini](./modules/blog.md)
 
 Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 

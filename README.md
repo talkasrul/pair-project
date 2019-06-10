@@ -57,48 +57,94 @@ Materi di bagi ke dalam enam minggu, yang tiap minggu nya terdiri dari berbagai 
 - :anchor:
 [[**Exercises 13**] X dan O](/modules/challenge-x-dan-o.md)
 
+### Week 3
 
-<!--
-## Week 2 (13 poin)
+- :anchor:
+[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)](https://www.codecademy.com/learn/learn-javascript)
+- :anchor:
+[[**Exercises 2**] Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
+- :anchor:
+[[**Exercises 3**] Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
+- :anchor:
+[[**Exercises 4**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
+- :anchor:
+[[**Exercises 5**] Palindrome](/modules/challenge-palindrome.md)
+- :anchor:
+[[**Exercises 6**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
+- :anchor:
+[[**Exercises 7**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
+- :anchor:
+[[**Exercises 8**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
+- :anchor:
+[[**Exercises 9**] Cari Mean](/modules/challenge-cari-mean.md)
+- :anchor:
+[[**Exercises 10**] Perkalian Unik](/modules/challenge-perkalian-unik.md)
+- :anchor:
+[[**Exercises 11**] Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
+- :anchor:
+[[**Exercises 12**] Deret Geometri](/modules/challenge-deret-geometri.md)
+- :anchor:
+[[**Exercises 13**] Target Terdekat](/modules/challenge-target-terdekat.md)
+- :anchor:
+[[**Exercises 14**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
+- :anchor:
+[[**Exercises 15**] Mengelompokkan Hewan](modules/challenge-kelompok-hewan.md)
 
-1. Membuat thinking.html / leaarning.html
-2. Menyelesaikan https://www.codecademy.com/learn/javascript unit 1 dan 2
-3. Menyelesaikan codecademy https://www.codecademy.com/learn/javascript unit 3, 4, dan 5
-4. Membuat Konversi Waktu
-5. Membuat Order String
-6. Membuat function palindrome
-7. Membuat fungsi matematika dasar
-8. Membuat permainan suit lokal
-9. Menyelesaikan codecademy https://www.codecademy.com/learn/javascript unit 6, 7, dan 8
-10. Membuat function format huruf
-11. Membuat function separate number
-12. Membuat function format angka
-13. Membuat daftar kontak sederhana
+### Week 4
 
-## Week 3 (16 poin)
+- :anchor:
+[[**Exercises 1**] Angka Prima](/modules/challenge-angka-prima.md)
+- :anchor:
+[[**Exercises 2**] Faktor Persekutuan Terbesar](/modules/challenge-faktor-persekutuan-terbesar.md)
+- :anchor:
+[[**Exercises 3**] Cari Median](/modules/challenge-cari-median.md)
+- :anchor:
+[[**Exercises 4**] Cari Modus](/modules/challenge-cari-modus.md)
+- :anchor:
+[[**Exercises 5**] Ubah Huruf](/modules/challenge-ubah-huruf.md)
+- :anchor:
+[[**Exercises 6**] Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
+- :anchor:
+[[**Exercises 7**] Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
+- :anchor:
+[[**Exercises 8**] Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
+- :anchor:
+[[**Exercises 9**] Cek AB](/modules/challenge-cek-ab.md)
+- :anchor:
+[[**Exercises 10**] Change me](modules/challenge-object-literal.md)
+- :anchor:
+[[**Exercises 11**] Shopping Time!](modules/challenge-shopping-time.md)
+- :anchor:
+[[**Exercises 12**] Toko X](modules/challenge-toko-x.md)
+- :anchor: [[**Exercises 13**] Deep Sum](modules/challenge-deep-sum.md)
+- :anchor: [[**Exercises 14**] Naik Angkot](modules/challenge-naik-angkot.md)
+- :anchor: [[**Exercises 15**] Highest Score](modules/challenge-highest-score.md)
+- :anchor: [[**Exercises 16**] Graduates](modules/challenge-graduates.md)
 
-1. Challenge-Cek Bilangan Prima
-2. Challenge-Index Bilangan Prima
-3. Challenge-Jenis Bilangan
-4. Challenge-Bilangan Faktor
-5. Challenge-Faktor Prima
-6. Challenge-Palindrome 2
-7. Challenge-String Compression
-8. Challenge-Cek String
-9. Challenge-Remove Duplicate
-10. Membuat permainan tebak angka
-11. Challenge-Array 1
-12. Challenge-Repeated Letter
-13. Challenge-Pergeseran Huruf
-14. Challenge-Pola Angka
-15. Challenge-Cek Angka
-16. Challenge-Konversi Huruf dan Angka
+### Week 5
 
-## Week 4 (6 poin)
+- :anchor: [[**Exercises 1**] Most Frequent Largest Numbers](modules/challenge-most-frequent-largest-numbers.md)
+- :anchor: [[**Exercises 2**] Password Generator](modules/challenge-password-generator.md)
+- :anchor: [[**Exercises 3**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
+- :anchor: [[**Exercises 4**] Total Digit Rekursif](/modules/challenge-total-digit.md)
+- :anchor: [[**Exercises 5**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
+- :anchor: [[**Exercises 6**] Damage Calculation](/modules/challenge-damage-calculation.md)
+- :anchor: [[**Exercises 7**] Melee Ranged Grouping](/modules/challenge-melee-ranged-grouping.md)
+- :anchor:
+[[**Exercises 8**] Hapus Simbol](/modules/challenge-hapus-simbol.md)
+- :anchor:
+[[**Exercises 9**] Cari Pelaku](/modules/challenge-cari-pelaku.md)
 
-1. Challenge-Menu Restaurant
-2. Challenge-Recursive Range Angka
-3. Challenge-Promo Menu
-4. Challenge-Recursive is Even Number
-5. Challenge-Promo Credit Card
-6. Challenge-Recursive Angka Kuadrat -->
+
+### Week 6
+
+- 💪
+[[**Latihan Pribadi 1**] Memanipulasi Element HTML](modules/anchor-js-dom-manipulation.md)
+- 💪
+[[**Latihan Pribadi 2**] Memanipulasi dan Menjelajah DOM](modules/anchor-js-dom-transverse-manipulation.md)
+- 💪
+[[**Latihan Pribadi 3**] Membuat Validasi Form menggunakan JavaScript](modules/anchor-js-form-validation.md)
+- 💪
+[[**Latihan Pribadi 4**] Membuat Element HTML Dinamis Dengan JavaScript](modules/anchor-js-dom-creation.md)
+- :anchor:
+[[**Final Project**] Membuat Web App menggunakan HTML, CSS, dan JavaScript](modules/anchor-js-dom-web-app.md)

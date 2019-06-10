@@ -1,8 +1,8 @@
-# Hacktiv8 Phase 0 Week 6: Finals and JavaScript DOM
+# Week 6: Finals and JavaScript DOM
 
 ![Header](assets/header-w1.jpg)
 
-Sampailah di minggu terakhir phase 0! Senin - Rabu kamu akan fokus untuk final live coding, dan di kamis dan jumat kamu akan bermain dengan DOM dan membuat project web kamu yang paling seru!
+Sampailah di minggu terakhir Step 1! Senin - Rabu kamu akan fokus untuk final live coding, dan di kamis dan jumat kamu akan bermain dengan DOM dan membuat project web kamu yang paling seru!
 
 ![Let's start!](assets/start.png)
 
@@ -51,12 +51,9 @@ Tibalah di hari terakhir fase 0. Kamu akan ditantang untuk membuat final project
 ## Sabtu dan Minggu
 
 - [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
-- [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
 
 Selamat berpetualang dengan istilah dan teknologi yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,
 
-Tim Hacktiv8
-
-![Hacktiv8 Banner](assets/banner.png)
+Tim Aa Academy

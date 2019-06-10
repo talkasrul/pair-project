@@ -1,4 +1,4 @@
-# Hacktiv8 Phase 0 Week 5: Recursive, Regex, and Object Oriented Programming in JavaScript
+# Week 5: Recursive, Regex, and Object Oriented Programming in JavaScript
 
 ![Header](assets/header-w4.jpg)
 
@@ -13,6 +13,7 @@ Tiba saatnya kita melakukan Live Coding yang bertujuan untuk menguji kemampuanmu
 ## Selasa - Modularizing Code using Functions & Recursive Functions
 - :notebook_with_decorative_cover:
 [Mengenal Rekursif](/modules/js-function-recursive.md)
+
 - :anchor: [[**Exercises 1**] Most Frequent Largest Numbers](modules/challenge-most-frequent-largest-numbers.md)
 - :anchor: [[**Exercises 2**] Password Generator](modules/challenge-password-generator.md)
 - :anchor: [[**Exercises 3**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
@@ -23,6 +24,7 @@ Tiba saatnya kita melakukan Live Coding yang bertujuan untuk menguji kemampuanmu
 ## Rabu - Git Branch
 - :notebook_with_decorative_cover:
 [Cara Submit menggunakan Git Branch (Untuk Exercises Hari Rabu)](/modules/submitting-on-a-new-branch.md)
+
 - :anchor: [[**Exercises 6**] Damage Calculation](/modules/challenge-damage-calculation.md)
 - :anchor: [[**Exercises 7**] Melee Ranged Grouping](/modules/challenge-melee-ranged-grouping.md)
 
@@ -30,6 +32,7 @@ Tiba saatnya kita melakukan Live Coding yang bertujuan untuk menguji kemampuanmu
 ## Kamis - Regex
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](/modules/regular-expressions.md)
+
 - :anchor:
 [[**Exercises 8**] Hapus Simbol](/modules/challenge-hapus-simbol.md)
 - :anchor:
@@ -41,12 +44,9 @@ Lakukan yang terbaik, mulailah beradaptasi dengan suasana live code agar lebih t
 ## Sabtu dan Minggu
 
 - [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
-- [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
 
 Selamat berpetualang dengan istilah dan teknologi yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,
 
-Tim Hacktiv8
-
-![Hacktiv8 Banner](assets/banner.png)
+Tim Aa Academy
