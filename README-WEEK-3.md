@@ -46,13 +46,13 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercises 5 (Auto)**] Palindrome](/modules/challenge-palindrome.md)
+[[**Exercises 5**] Palindrome](/modules/challenge-palindrome.md)
 - :anchor:
-[[**Exercises 6 (Auto)**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
+[[**Exercises 6**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
 - :anchor:
-[[**Exercises 7 (Auto)**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
+[[**Exercises 7**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
 - :anchor:
-[[**Exercises 8 (Auto)**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
+[[**Exercises 8**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
 
 ## Kamis - More Logic Challenges
 
@@ -61,13 +61,13 @@ Hari baru, tantangan baru. Setelah belajar tentang array and solve berbagai prob
 Tugas :
 
 - :anchor:
-[[**Exercises 9 (Auto)**] Cari Mean](/modules/challenge-cari-mean.md)
+[[**Exercises 9**] Cari Mean](/modules/challenge-cari-mean.md)
 - :anchor:
-[[**Exercises 10 (Auto)**] Perkalian Unik](/modules/challenge-perkalian-unik.md)
+[[**Exercises 10**] Perkalian Unik](/modules/challenge-perkalian-unik.md)
 - :anchor:
-[[**Exercises 11 (Auto)**] Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
+[[**Exercises 11**] Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
 - :anchor:
-[[**Exercises 12 (Auto)**] Deret Geometri](/modules/challenge-deret-geometri.md)
+[[**Exercises 12**] Deret Geometri](/modules/challenge-deret-geometri.md)
 
 ## Jumat - More Arrays + Multidimensional Array
 
@@ -76,7 +76,7 @@ Kamu telah mencoba berbagai macam soal, menggunakan array maupun tidak. Tentunya
 Hari ini, kamu akan bermain dengan array dan bentuk selanjutnya, yaitu array multidimensi. Tenang saja, array multidimensi konsep nya sama persis dengan array satu dimensi!
 
 - :anchor:
-[[**Exercises 13 (Auto)**] Target Terdekat](/modules/challenge-target-terdekat.md)
+[[**Exercises 13**] Target Terdekat](/modules/challenge-target-terdekat.md)
 - :anchor:
 [[**Exercises 14**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
 - :anchor:
