@@ -2,7 +2,7 @@ Material Valid for FullStack Immersive Batch 17
 
 # Hacktiv8 Phase 0 Week 2: The World of JavaScript
 
-![Header](assets/header-w2.jpg)
+![Header](assets/header-w2.png)
 
 Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan berkenalan dengan JavaScript,
 dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini, kamu akan bertemu dengan sangat banyak kode dan istilah yang digunakan dalam pemrograman atau khususnya pada JavaScript.
