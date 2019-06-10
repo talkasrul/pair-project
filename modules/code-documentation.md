@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- ▢ Mengetahui alasan, aturan, tips dan trik untuk mendokumentasikan kode kamu.
+- Mengetahui alasan, aturan, tips dan trik untuk mendokumentasikan kode kamu.
 
 ## Learnings
 

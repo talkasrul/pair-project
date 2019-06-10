@@ -2,8 +2,8 @@
 
 ## Objectives
 
-- ▢ Mengenal coderbyte dan cara kerjanya
-- ▢ Mampu mengerjakan dan mengumpulkan tugas dari coderbyte sesuai instruksi
+- Mengenal coderbyte dan cara kerjanya
+- Mampu mengerjakan dan mengumpulkan tugas dari coderbyte sesuai instruksi
 
 ## Learnings
 
