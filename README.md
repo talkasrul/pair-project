@@ -11,11 +11,11 @@ Materi di bagi ke dalam enam minggu, yang tiap minggu nya terdiri dari berbagai 
 ### [Week 5: Bermain Logic di JavaScript Lanjutan](./README-WEEK-5.md)
 ### [Week 6: Menguasai JavaScript ES6 dan Paradigma Programming](./README-WEEK-6.md)
 
+----
+
 ## Pengingat Tugas Saja 
 
-Berikut adalah list challenges yang wajib diselesaikan karena akan diperhitungkan sebagai completion rate.
-
-## Week 1
+### Week 1
 
 - :anchor:
 [[**Exercises 1**] Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
@@ -30,6 +30,32 @@ Berikut adalah list challenges yang wajib diselesaikan karena akan diperhitungka
 [[**Latihan Pribadi 5**] Membuat Branch Baru pada Repositori](./modules/git-branch-anchor.md)
 - :anchor:
 [[**Exercise 3**] - Website yang dihosting dengan Github Pages](./modules/github-pages-rev.md) - `dicek dihari minggu`
+
+### Week 2
+
+- :anchor:
+[[**Exercises 1**] Berlatih dengan Pseudocode](modules/challenge-main-pseudocode.md)
+- :anchor:
+[[**Exercises 2**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
+- :anchor:
+[[**Exercises 3**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
+- :anchor:
+[[**Exercises 4**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
+- :anchor: [[**Exercises 5**] Bermain dengan String di JavaScript](modules/anchor-main-string.md)
+- :anchor: [[**Exercises 6**] Berlatih Perulangan di JavaScript](modules/anchor-main-loop.md)
+- :anchor: [[**Exercises 7**] Perulangan - Play with Asterisks](modules/anchor-main-loop-asterisks.md)
+- :anchor:
+[[**Exercises 8**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)](https://www.codecademy.com/learn/learn-javascript)
+- :anchor:
+[[**Exercises 9**] Berlatih Penggunaan Functions](modules/anchor-basic-function.md)
+- :anchor:
+[[**Exercises 10**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
+- :anchor:
+[[**Exercises 11**] Balik Kata](/modules/challenge-balik-kata.md)
+- :anchor:
+[[**Exercises 12**] Konversi Menit](/modules/challenge-konversi-menit.md)
+- :anchor:
+[[**Exercises 13**] X dan O](/modules/challenge-x-dan-o.md)
 
 
 <!--

@@ -96,7 +96,6 @@ Tugas :
 ## Sabtu dan Minggu
 
 -  [Refleksi kegiatan pekan ini](modules/reflection.md)
--  [Blogging teknikal terkait skill pekan ini](modules/blog.md)
 
 Selamat berpetualang dengan logika dan data! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
