@@ -30,7 +30,6 @@ Berikut adalah list challenges yang wajib diselesaikan karena akan diperhitungka
 [[**Latihan Pribadi 5**] Membuat Branch Baru pada Repositori](./modules/git-branch-anchor.md)
 - :anchor:
 [[**Exercise 3**] - Website yang dihosting dengan Github Pages](./modules/github-pages-rev.md) - `dicek dihari minggu`
--  [Blogging teknikal terkait skill pekan ini](./modules/blog.md)
 
 
 <!--

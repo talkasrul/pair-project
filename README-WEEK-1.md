@@ -98,7 +98,6 @@ Materi & Referensi :
 Tugas :
 - :anchor:
 [[**Exercise 3**] - Website yang dihosting dengan Github Pages](./modules/github-pages-rev.md) - `dicek dihari minggu`
--  [Blogging teknikal terkait skill pekan ini](./modules/blog.md)
 
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
