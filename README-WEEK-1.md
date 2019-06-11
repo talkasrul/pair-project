@@ -61,10 +61,17 @@ Materi & Referensi :
 
 Tugas :
 - :anchor: [[**Exercises 2**] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
+
+## Rabu - Menghias halaman website
+HTML ibarat kerangka manusia yang berupa adanya kepala, badan, dan lainnya. Sekarang manusia tersebut agar terlihat bagus maka perlu diberi baju, celana, atau mungkin dengan beberapa asessoris seperti topi, jam tangan yang kita sebut CSS.
+
+Kamu telah mempelajari dasar css pada selasa kemarin di codeacademy, sekarang pergunakan itu untuk menghias website kamu dengan melakukan tugas berikut.
+
+Tugas:
 - 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](./modules/anchor-css-selector-and-styling.md)
 - 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](./modules/anchor-css-layouting.md)
 
-## Rabu dan Kamis - Mengendalikan Revisi Menggunakan Git
+## Kamis - Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
 perkaya website kamu dengan gambar dan tabel. Dan hari ini, kamu juga akan berkenalan dengan Git, sebuah
 tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesaikan hari ini, berarti kamu
