@@ -8,7 +8,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan berkenal
 
 ## Metode Pengumpulan Tugas
 
-Untuk seluruh tugas week 2, buatlah sebuah repository baru di github dengan nama `week-2`. Untuk setiap satu tugas, buatlah file .js (untuk tugas javascript), file .txt (untuk tugas pseudocode), atau file .png (untuk tugas screenshot codecademy) untuk masing-masing tugas. Contoh, untuk tugas pertama, buatlah file .js dengan nama `lat-1.js` dan push ke github. Kirimkan link yang merujuk ke file .js tersebut ke pengajar. **Jangan kirimkan link ke repository, tapi ke direct file di dalam repository-nya**.
+Untuk seluruh tugas week 2, buatlah sebuah repository baru di github dengan nama `step-1`. Untuk setiap satu tugas, buatlah file .js (untuk tugas javascript), file .txt atau .md (untuk tugas pseudocode), atau file .png (untuk tugas screenshot codecademy) untuk masing-masing tugas. Contoh, untuk tugas pertama, buatlah file .js dengan nama `lat-1.js` dan push ke github. Kirimkan link yang merujuk ke file .js tersebut ke pengajar. **Jangan kirimkan link ke repository, tapi ke direct file di dalam repository-nya**.
 
 ## Senin - Pengenalan Programming, Algoritma, dan Pseudocode
 Hari pertama di Week 2! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
