@@ -2,6 +2,8 @@
 
 Soal ini terdiri dari 2 nomor!
 
+> Jawaban disimpan dengan nama file `w2-pseudocode.md`
+
 ## 1. Tahun Kabisat
 
 Apa yang kamu ketahui tentang tanggal 29 Februari? Kamu pasti tahu jika suatu tahun memiliki tanggal 29 Februari berarti tahun tersebut merupakan tahun kabisat.
