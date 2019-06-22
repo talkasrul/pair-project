@@ -21,7 +21,7 @@ JIKA baju == putih
 
 LOOPING dimulai dari kentang 1
   DO kupas kentang
-  JIKA kentang sudah 15
+  JIKA kentang sudah 15 BERHENTI mengupas
 
 DO goreng kentang
 
