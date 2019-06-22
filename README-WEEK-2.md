@@ -2,11 +2,9 @@
 
 [Kembali](README.md)
 
-![Header](assets/header-w2.png)
+![Header](./week-2/assets/header-w2.png)
 
 Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan berkenalan dengan JavaScript, dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini, kamu akan bertemu dengan sangat banyak kode dan istilah yang digunakan dalam pemrograman atau khususnya pada JavaScript.
-
-![Let's start!](assets/start.png)
 
 ## Metode Pengumpulan Tugas
 
@@ -17,12 +15,12 @@ Hari pertama di Week 2! Mulailah pekan baru dengan semangat baru! Hari ini, kamu
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
-[Mempelajari struktur alur program dengan algoritma dan pseudocode](modules/algorithm-pseudocode.md)
+[Mempelajari struktur alur program dengan algoritma dan pseudocode](./week-2/learn/algorithm-pseudocode.md)
 
 Tugas :
 
 - :anchor:
-[[**Exercises 1**] Berlatih dengan Pseudocode](modules/challenge-main-pseudocode.md)
+[[**Exercises 1**] Berlatih dengan Pseudocode](./week-2/challenge/challenge-main-pseudocode.md)
 
 ## Selasa - Dunia JavaScript
 
@@ -33,22 +31,22 @@ Materi & Referensi :
 - :wrench:
 [Repl, tools online untuk menjalankan JavaScript](https://repl.it/languages/javascript)
 - :notebook_with_decorative_cover:
-[Memahami dan menggunakan dasar pemrograman dengan JavaScript](modules/js-first-time.md)
+[Memahami dan menggunakan dasar pemrograman dengan JavaScript](./week-2/learn/js-first-time.md)
 - :notebook_with_decorative_cover:
-[Memahami Tipe Data dan Variabel pada JavaScript](modules/js-first-time.md#data-type)
+[Memahami Tipe Data dan Variabel pada JavaScript](./week-2/learn/js-first-time.md#data-type)
 - :notebook_with_decorative_cover:
-[Mengenal Berbagai Jenis Operasi dalam JavaScript](modules/js-first-time.md#operator)
+[Mengenal Berbagai Jenis Operasi dalam JavaScript](./week-2/learn/js-first-time.md#operator)
 - :notebook_with_decorative_cover:
-[Memahami Control Flow: Conditional dan Branching](modules/js-first-time.md#conditional)
+[Memahami Control Flow: Conditional dan Branching](./week-2/learn/js-first-time.md#conditional)
 
 Tugas :
 
 - :anchor:
 [[**Exercises 2**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[[**Exercises 3**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
+[[**Exercises 3**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](./week-2/challenge/anchor-menggunakan-if-else.md)
 - :anchor:
-[[**Exercises 4**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
+[[**Exercises 4**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](./week-2/challenge/anchor-switch-case.md)
 
 ## Rabu - Mengenal Tipe data String dan Konsep Looping atau Perulangan
 
@@ -56,16 +54,16 @@ Hari ini mari kita berkenalan dengan string dan perulangan, atau sering disebut 
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
-[Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
+[Memahami Tipe Data String pada JavaScript](./week-2/learn/js-string-reference.md)
 - :notebook_with_decorative_cover:
-[Memahami Perulangan atau Looping](modules/js-first-time.md#loopiteration)
+[Memahami Perulangan atau Looping](./week-2/learn/js-first-time.md#loopiteration)
 - :notebook_with_decorative_cover:
-[Memahami Built-in Object Math](modules/math-object-js.md)
+[Memahami Built-in Object Math](./week-2/learn/math-object-js.md)
 
 Tugas :
-- :anchor: [[**Exercises 5**] Bermain dengan String di JavaScript](modules/anchor-main-string.md)
-- :anchor: [[**Exercises 6**] Berlatih Perulangan di JavaScript](modules/anchor-main-loop.md)
-- :anchor: [[**Exercises 7**] Perulangan - Play with Asterisks](modules/anchor-main-loop-asterisks.md)
+- :anchor: [[**Exercises 5**] Bermain dengan String di JavaScript](./week-2/challenge/anchor-main-string.md)
+- :anchor: [[**Exercises 6**] Berlatih Perulangan di JavaScript](./week-2/challenge/anchor-main-loop.md)
+- :anchor: [[**Exercises 7**] Perulangan - Play with Asterisks](./week-2/challenge/anchor-main-loop-asterisks.md)
 
 ## Kamis - Menggunakan Konsep Functions
 
@@ -73,27 +71,27 @@ Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaima
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
-[Mempelajari Function atau Method](modules/js-first-time.md#functionmethod)
+[Mempelajari Function atau Method](./week-2/learn/js-first-time.md#functionmethod)
 - :notebook_with_decorative_cover:
-[Mempelajari Scope](modules/js-scope.md)
+[Mempelajari Scope](./week-2/learn/js-scope.md)
 
 Tugas :
 
 - :anchor:
 [[**Exercises 8**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[[**Exercises 9**] Berlatih Penggunaan Functions](modules/anchor-basic-function.md)
+[[**Exercises 9**] Berlatih Penggunaan Functions](./week-2/challenge/anchor-basic-function.md)
 
 ## Jumat - Solve Problems menggunakan JavaScript
 
 - :anchor:
-[[**Exercises 10**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
+[[**Exercises 10**] Bandingkan Angka](./week-2/challenge/challenge-bandingkan-angka.md)
 - :anchor:
-[[**Exercises 11**] Balik Kata](/modules/challenge-balik-kata.md)
+[[**Exercises 11**] Balik Kata](./week-2/challenge/challenge-balik-kata.md)
 - :anchor:
-[[**Exercises 12**] Konversi Menit](/modules/challenge-konversi-menit.md)
+[[**Exercises 12**] Konversi Menit](./week-2/challenge/challenge-konversi-menit.md)
 - :anchor:
-[[**Exercises 13**] X dan O](/modules/challenge-x-dan-o.md)
+[[**Exercises 13**] X dan O](./week-2/challenge/challenge-x-dan-o.md)
 
 ## Sabtu
 
@@ -101,7 +99,7 @@ Tugas :
 
 ## Minggu
 
-[Kegiatan pekan ini](kegiatan/kegiatan-week-2.md)
+[Kegiatan pekan ini](./week-2/learn/kegiatan-weekend-2.md)
 
 Selamat berpetualang dengan logika dan data! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 

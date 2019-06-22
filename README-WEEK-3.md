@@ -15,8 +15,6 @@ Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di var
 Materi & Referensi :
 
 - :notebook_with_decorative_cover: [Mempelajari tipe data Array](./week-3/learn/js-array.md)
-- :notebook_with_decorative_cover:
-[Memahami Tipe Data String pada JavaScript](./week-3/learn/js-string-reference.md)
 
 Tugas :
 
