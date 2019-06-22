@@ -1,10 +1,8 @@
 # Week 5: Recursive, Regex, and Object Oriented Programming in JavaScript
 
-![Header](assets/header-w4.jpg)
+![Header](./week-5/assets/header-w5.jpg)
 
 Selamat sudah melalui kegiatan pekan kelima! Setelah tiga minggu penuh bermain dengan console dan logika, minggu ini kita akan berlatih tentang konsep Rekursif, Regex, serta tipe data Object di JavaScript.
-
-![Let's start!](assets/start.png)
 
 ## Senin - Live Coding (Arrays, Looping, & Conditionals)
 
@@ -12,38 +10,38 @@ Tiba saatnya kita melakukan Live Coding yang bertujuan untuk menguji kemampuanmu
 
 ## Selasa - Modularizing Code using Functions & Recursive Functions
 - :notebook_with_decorative_cover:
-[Mengenal Rekursif](/modules/js-function-recursive.md)
+[Mengenal Rekursif](./week-5/learn/js-function-recursive.md)
 
-- :anchor: [[**Exercises 1**] Most Frequent Largest Numbers](modules/challenge-most-frequent-largest-numbers.md)
-- :anchor: [[**Exercises 2**] Password Generator](modules/challenge-password-generator.md)
-- :anchor: [[**Exercises 3**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
-- :anchor: [[**Exercises 4**] Total Digit Rekursif](/modules/challenge-total-digit.md)
-- :anchor: [[**Exercises 5**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
+- :anchor: [[**Exercises 1**] Most Frequent Largest Numbers](./week-5/challenge/challenge-most-frequent-largest-numbers.md)
+- :anchor: [[**Exercises 2**] Password Generator](./week-5/challenge/challenge-password-generator.md)
+- :anchor: [[**Exercises 3**] Makan Terus Rekursif](./week-5/challenge/challenge-makan-terus.md)
+- :anchor: [[**Exercises 4**] Total Digit Rekursif](./week-5/challenge/challenge-total-digit.md)
+- :anchor: [[**Exercises 5**] Kali Terus Rekursif](./week-5/challenge/challenge-kali-terus.md)
 
 
 ## Rabu - Git Branch
 - :notebook_with_decorative_cover:
-[Cara Submit menggunakan Git Branch (Untuk Exercises Hari Rabu)](/modules/submitting-on-a-new-branch.md)
+[Cara Submit menggunakan Git Branch (Untuk Exercises Hari Rabu)](./week-5/learn/submitting-on-a-new-branch.md)
 
-- :anchor: [[**Exercises 6**] Damage Calculation](/modules/challenge-damage-calculation.md)
-- :anchor: [[**Exercises 7**] Melee Ranged Grouping](/modules/challenge-melee-ranged-grouping.md)
+- :anchor: [[**Exercises 6**] Damage Calculation](./week-5/challenge/challenge-damage-calculation.md)
+- :anchor: [[**Exercises 7**] Melee Ranged Grouping](./week-5/challenge/challenge-melee-ranged-grouping.md)
 
 
 ## Kamis - Regex
 - :notebook_with_decorative_cover:
-[Mengenal Regular Expressions](/modules/regular-expressions.md)
+[Mengenal Regular Expressions](./week-5/learn/regular-expressions.md)
 
 - :anchor:
-[[**Exercises 8**] Hapus Simbol](/modules/challenge-hapus-simbol.md)
+[[**Exercises 8**] Hapus Simbol](./week-5/challenge/challenge-hapus-simbol.md)
 - :anchor:
-[[**Exercises 9**] Cari Pelaku](/modules/challenge-cari-pelaku.md)
+[[**Exercises 9**] Cari Pelaku](./week-5/challenge/challenge-cari-pelaku.md)
 
 ## Jumat - Simulasi Final Live Code
 Lakukan yang terbaik, mulailah beradaptasi dengan suasana live code agar lebih tenang. Usahakan kerjakan dengan hasil sendiri, masih ada kesempatan untuk tanya jawab di minggu berikutnya
 
 ## Sabtu dan Minggu
 
-- [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
+- [Refleksi kegiatan pekan ini](./week-5/learn/kegiatan-weekend-5.md)
 
 Selamat berpetualang dengan istilah dan teknologi yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
