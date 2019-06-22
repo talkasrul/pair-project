@@ -10,6 +10,7 @@ Bantulah ibu **Anis** untuk memasak kentang dengan membuatkan algoritmanya sehin
 
 ## Jawaban
 
+```
 MULAI
 
 STORE baju = putih
@@ -26,5 +27,6 @@ DO goreng kentang
 
 DISPLAY sajikan kentang goreng
 SELESAI
+```
 
 > Jika lebih detail lagi tambahkan cara menggoreng
