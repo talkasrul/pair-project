@@ -1,5 +1,7 @@
 # Week 1: Membuat Website Pertama Saya
 
+[Kembali](README.md)
+
 ![Header](assets/header-w1.jpg)
 
 Selamat datang di tahap persiapan sesungguhnya pada Aa Academy, yaitu Step 1! Step 1 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. `Step 1 juga menjadi penentu apakah kamu dapat maju ke Step 2`. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
@@ -113,3 +115,5 @@ Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yan
 Salam,
 
 Tim AA Academy
+
+[Keatas](README-WEEK-1.md)
