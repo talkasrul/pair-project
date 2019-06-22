@@ -42,3 +42,36 @@ function checkBaju(str) {
   }
 }
 ```
+
+2. Dengan Switch Case
+
+```javascript
+function checkBaju(str) {
+  var hasil = ''
+
+  switch (str) {
+    case 'putih':
+      hasil = 'Pakai Celemek'
+      break;
+    case 'kuning':
+      hasil = 'Pakai Celemek'
+      break;
+    case 'hijau muda':
+        hasil = 'Pakai Celemek'
+        break;
+    case 'biru muda':
+      hasil = 'Pakai Celemek'
+      break;
+    case 'pink':
+      hasil = 'Pakai Celemek'
+      break;
+    case 'orange':
+      hasil = 'Pakai Celemek'
+      break;
+    default:
+      hasil = 'Tidak Pakai Celemek'
+      break;
+  }
+  return hasil
+}
+```
