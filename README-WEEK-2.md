@@ -101,7 +101,7 @@ Tugas :
 
 ## Minggu
 
--  [Refleksi kegiatan pekan ini](modules/reflection.md)
+[Kegiatan pekan ini](kegiatan/kegiatan-week-2.md)
 
 Selamat berpetualang dengan logika dan data! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
