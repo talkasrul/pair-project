@@ -7,3 +7,24 @@ Ibu **Anis** akan memasak kentang goreng untuk cemilan **kiki** saat belajar *ja
 Bantulah ibu **Anis** untuk memasak kentang dengan membuatkan algoritmanya sehingga ibu **Anis** cepat dalam menyelesaikan tugasnya (memasak kentang goreng) tanpa menimbulkan masalah yang baru.
 
 :smile:
+
+## Jawaban
+
+MULAI
+
+STORE baju = putih
+STORE kentang = 15
+
+JIKA baju == putih
+  DO Pakai Celemek
+
+LOOPING dimulai dari kentang 1
+  DO kupas kentang
+  JIKA kentang sudah 15
+
+DO goreng kentang
+
+DISPLAY sajikan kentang goreng
+SELESAI
+
+> Jika lebih detail lagi tambahkan cara menggoreng
