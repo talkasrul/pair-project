@@ -8,11 +8,7 @@ Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari 
 
 ![Let's start!](assets/start.png)
 
-## Senin - Live Coding
-
-Instruksi diberikan di channel kelas.
-
-## Selasa - Mengenal Tipe Data Array
+## Senin - Mengenal Tipe Data Array
 
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
@@ -33,7 +29,7 @@ Tugas :
 - :anchor:
 [[**Exercises 4**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
 
-## Rabu - Logic Challenges Refresh
+## Selasa - Logic Challenges Refresh
 
 Gunakan waktu sejenak untuk berkenalan dengan Node Js,
 sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di server. Jadi, kamu bisa dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan mencoba langsung mengimplementasi kodemu melalui node Js!
@@ -54,7 +50,7 @@ Tugas :
 - :anchor:
 [[**Exercises 8**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
 
-## Kamis - More Logic Challenges
+## Rabu - More Logic Challenges
 
 Hari baru, tantangan baru. Setelah belajar tentang array and solve berbagai problem dengan arrays, saatnya perbanyak latihan dengan soal yang terus melatih logika!
 
@@ -69,7 +65,7 @@ Tugas :
 - :anchor:
 [[**Exercises 12**] Deret Geometri](/modules/challenge-deret-geometri.md)
 
-## Jumat - More Arrays + Multidimensional Array
+## Kamis - More Arrays + Multidimensional Array
 
 Kamu telah mencoba berbagai macam soal, menggunakan array maupun tidak. Tentunya di saat ini kamu telah bisa menilai cara mana yang lebih baik menggunakan array, dan yang tidak perlu, bukan?
 
