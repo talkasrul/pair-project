@@ -1,6 +1,6 @@
 # Percabangan 
 
-30 Menit
+45 Menit
 
 ## Instruksi
 Pada saat memasak, ibu **Anis** selalu memperhatikan baju yang sedang ia pakai, jika sedang memakai warna yang mudah kotor maka ibu **Anis** selalu memakai celemek agar bajunya tidak terlihat kotor dan bergetah.
