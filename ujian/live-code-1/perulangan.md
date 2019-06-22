@@ -57,3 +57,24 @@ console.log(kupasKentang(15, 0))
 ```bash
 Jumlah kentang kurang, beli dahulu
 ```
+
+## Jawaban
+
+1. Dengan for
+
+```javascript
+function kupasKentang(jlhDikupas, jlhKentang) {
+  for(var i = 1; i <= jlhKentang; i++) {
+    if(i > jlhDikupas) {
+      break;
+    } else {
+      console.log('Kupas kentang ke ', i)
+    }
+  }
+
+  if(jlhKentang < jlhDikupas) {
+    return "Jumlah kentang kurang, beli dahulu"
+  }
+  return 'Selesai mengupas Kentang'
+}
+```
