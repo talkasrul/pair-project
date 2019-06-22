@@ -28,3 +28,17 @@ console.log(checkBaju('putih'))   // Pakai Celemek
 console.log(checkBaju('kuning'))  // Pakai Celemek
 console.log(checkBaju('hijau'))   // Tidak Pakai Celemek
 ```
+
+## Jawaban 
+
+1. Dengan if else 
+
+```javascript
+function checkBaju(str) {
+  if (str == 'putih' || str == 'kuning' || str == 'hijau muda' || str == 'biru muda' || str == 'pink' || str == 'orange' ){
+      return('pakai Celemek')
+  } else {
+      return('tidak pakai celemek') 
+  }
+}
+```
