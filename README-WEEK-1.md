@@ -10,8 +10,6 @@ Selamat datang di tahap persiapan sesungguhnya pada Aa Academy, yaitu Step 1! St
 
 Dalam tahap ini, tiap pekan bisa diselesaikan dalam waktu paling cepat 20-30 jam. Pun kalau kamu sudah bisa berbagai skill yang sudah tertera, bisa saja juga ada beberapa hal esensial dan tambahan yang belum kamu tahu. Tiap akhir pekan, kamu harus mengisi form laporan kegiatan yang link-nya disertakan di bawah.
 
-![Let's start!](./week-1/assets/start.png)
-
 **Oke, siap untuk memulai Step 1 kita di AA Academy?**
 
 Kami yakin bahwa kamu akan mengalami petualangan yang sangat seru! Pada waktu di antara berakhirnya Step 1 dan sebelum dimulainya Step 2 juga, kita akan melakukan evaluasi terhadap ilmu yang telah kamu dapatkan.
@@ -42,24 +40,24 @@ Hari pertamamu akan dimulai dengan memperkenalkan dirimu dan bagaimana motivasi 
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
-[Mempelajari dasar HTML5](./modules/html5-basics.md)
+[Mempelajari dasar HTML5](./week-1/learn/html5-basics.md)
 - :notebook_with_decorative_cover:
-[Mempelajari dasar HTML5 forms](./modules/html5-forms-basics.md)
+[Mempelajari dasar HTML5 forms](./week-1/learn/html5-forms-basics.md)
 - :books:
-[Mengenal Dunia Web dan Internet](./modules/internet-web.md)
+[Mengenal Dunia Web dan Internet](./week-1/learn/internet-web.md)
 
 Tugas :
 - :anchor:
 [[**Exercises 1**] Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
 - 💪
-[[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](./modules/anchor-laman-web-pertamaku.md)
+[[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](./week-1/challenge/anchor-laman-web-pertamaku.md)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik!
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
-[Mempelajari dasar CSS3](./modules/css3-basics.md)
+[Mempelajari dasar CSS3](./week-1/learn/css3-basics.md)
 
 Tugas :
 - :anchor: [[**Exercises 2**] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
@@ -70,15 +68,15 @@ HTML ibarat kerangka manusia yang berupa adanya kepala, badan, dan lainnya. Seka
 Kamu telah mempelajari dasar css pada selasa kemarin di codeacademy, sekarang pergunakan itu untuk menghias website kamu dengan melakukan tugas berikut.
 
 Tugas:
-- 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](./modules/anchor-css-selector-and-styling.md)
-- 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](./modules/anchor-css-layouting.md)
+- 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](./week-1/challenge/anchor-css-selector-and-styling.md)
+- 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](./week-1/challenge/anchor-css-layouting.md)
 
 Memahami terminal adalah hal dasar yang harus dipahami oleh developer, ini dikarenakan aplikasi GUI hanya memberikan fungsi yang terbatas dan hanya ditujukan untuk kalangan awam,sedangkan user administrator, developer, atau teknisi memerlukan kendali penuh atas mesin linux, kendali penuh linux hanya bisa diakses melalui Perintah Linux/command line interface baik melalui shell atau terminal emulator.
 
 Materi & Referensi :
 
 - :notebook_with_decorative_cover:
-[Mengenal dasar Terminal](./modules/terminal-basics.md)
+[Mengenal dasar Terminal](./week-1/learn/terminal-basics.md)
 
 
 ## Kamis - Mengendalikan Revisi Menggunakan Git
@@ -87,13 +85,13 @@ Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu 
 Materi & Referensi :
 
 - :notebook_with_decorative_cover:
-[Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](./modules/git-github-basics.md)
+[Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](./week-1/learn/git-github-basics.md)
 - :notebook_with_decorative_cover:
-[Melatih penggunaan command line serta Git dan GitHub lebih banyak](./modules/cli-git-github-practice.md)
+[Melatih penggunaan command line serta Git dan GitHub lebih banyak](./week-1/learn/cli-git-github-practice.md)
 
 Tugas :
 - 💪
-[[**Latihan Pribadi 5**] Membuat Repositori](./modules/git-repo-anchor.md)
+[[**Latihan Pribadi 5**] Membuat Repositori](./week-1/challenge/git-repo-anchor.md)
 
 
 ## Jumat - Langkah Menjadi Expert HTML dan CSS!
@@ -101,17 +99,17 @@ Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan memperca
 menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
 ## Sabtu dan Minggu
-[Kegiatan Akhir Pekan](kegiatan/kegiatan-week-1.md)
+[Kegiatan Akhir Pekan](./week-1/learn/kegiatan-weekend-1.md)
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
-[Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./modules/web-dev-process.md)
+[Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./week-1/learn/web-dev-process.md)
 - :notebook_with_decorative_cover:
-[Mengenal adaptive web design dan responsive web design (RWB)](./modules/web-design.md)
+[Mengenal adaptive web design dan responsive web design (RWB)](./week-1/learn/web-design.md)
 
 Tugas :
 - :anchor:
-[[**Exercise 3**] - Website yang dihosting dengan Github Pages](./modules/github-pages-rev.md) - `dicek dihari minggu`
+[[**Exercise 3**] - Website yang dihosting dengan Github Pages](./week-1/learn/github-pages-rev.md) - `dicek dihari minggu`
 
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
