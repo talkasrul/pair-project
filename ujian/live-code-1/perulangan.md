@@ -78,3 +78,24 @@ function kupasKentang(jlhDikupas, jlhKentang) {
   return 'Selesai mengupas Kentang'
 }
 ```
+
+2. Dengan while
+
+```javascript
+function kupasKentang(jlhDikupas, jlhKentang) {
+  var i = 1
+  while(i <= jlhKentang) {
+    if(i > jlhDikupas) {
+      break;
+    } else {
+      console.log('Kupas kentang ke ', i)
+    }
+    i++
+  }
+
+  if(jlhKentang < jlhDikupas) {
+    return "Jumlah kentang kurang, beli dahulu"
+  }
+  return 'Selesai mengupas Kentang'
+}
+```
