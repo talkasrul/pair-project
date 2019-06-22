@@ -100,6 +100,9 @@ Tugas :
 Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
 menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
+## Sabtu dan Minggu
+[Kegiatan Akhir Pekan](kegiatan/kegiatan-week-1.md)
+
 Materi & Referensi :
 - :notebook_with_decorative_cover:
 [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./modules/web-dev-process.md)
