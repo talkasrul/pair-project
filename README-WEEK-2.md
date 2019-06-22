@@ -93,7 +93,11 @@ Tugas :
 - :anchor:
 [[**Exercises 13**] X dan O](/modules/challenge-x-dan-o.md)
 
-## Sabtu dan Minggu
+## Sabtu
+
+[Live Code 1](./ujian/live-code-1.md)
+
+## Minggu
 
 -  [Refleksi kegiatan pekan ini](modules/reflection.md)
 
