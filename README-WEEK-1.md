@@ -116,4 +116,4 @@ Salam,
 
 Tim AA Academy
 
-[Keatas](#week-1:-membuat-website-pertama-saya)
+[Keatas](#week-1-membuat-website-pertama-saya)
