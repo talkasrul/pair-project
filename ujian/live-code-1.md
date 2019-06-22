@@ -2,7 +2,7 @@
 
 Hari ini kami akan menguji pemahaman kamu selama 2 pekan kebelakang. Apakah kamu sudah mengerti atau belum perlu untuk kami ketahui dengan cara melakukan *test* ini atau kita sebut dengan `live code`.
 
-Materi yang diuji adalah: 
+## Materi yang diuji adalah: 
 
 - Algoritma
 - Percabangan / Kondisi 
@@ -12,7 +12,7 @@ Materi yang diuji adalah:
   - for
   - while
  
-Banyak soal ada 3 soal dengan waktu selama 180 menit
+Banyak soal ada 3 soal dengan waktu selama 120 menit dan boleh buka internet
  
 ## Soal
 
