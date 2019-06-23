@@ -33,7 +33,7 @@ Gunakan waktu sejenak untuk berkenalan dengan Node Js,
 sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di server. Jadi, kamu bisa dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan mencoba langsung mengimplementasi kodemu melalui node Js!
 
 Materi & Referensi :
-- :notebook_with_ecoretive_cover: [Array Multidimensi](./week-3/learn/array-multidimensi.md)
+- :notebook_with_decoretive_cover: [Array Multidimensi](./week-3/learn/array-multidimensi.md)
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](./week-3/learn/js-node.md)
 
