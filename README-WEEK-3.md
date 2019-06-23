@@ -33,10 +33,9 @@ Gunakan waktu sejenak untuk berkenalan dengan Node Js,
 sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di server. Jadi, kamu bisa dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan mencoba langsung mengimplementasi kodemu melalui node Js!
 
 Materi & Referensi :
-
+- :notebook_with_ecoretive_cover: [Array Multidimensi](./week-3/learn/array-multidimensi.md)
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](./week-3/learn/js-node.md)
-- :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](./week-3/learn/js-code-style.md)
 
 Tugas :
 - :anchor:
@@ -45,23 +44,19 @@ Tugas :
 [[**Exercises 6**] Palindrome Angka](./week-3/challenge/challenge-palindrome-angka.md)
 - :anchor:
 [[**Exercises 7**] Hitung Jumlah Kata](./week-3/challenge/challenge-hitung-jumlah-kata.md)
-- :anchor:
-[[**Exercises 8**] Pasangan Angka Terbesar](./week-3/challenge/challenge-pasangan-terbesar.md)
 
 ## Rabu - More Logic Challenges
 
 Hari baru, tantangan baru. Setelah belajar tentang array and solve berbagai problem dengan arrays, saatnya perbanyak latihan dengan soal yang terus melatih logika!
 
 Tugas :
-
+- :anchor:
+[[**Exercises 8**] Pasangan Angka Terbesar](./week-3/challenge/challenge-pasangan-terbesar.md)
 - :anchor:
 [[**Exercises 9**] Cari Mean](./week-3/challenge/challenge-cari-mean.md)
 - :anchor:
 [[**Exercises 10**] Perkalian Unik](./week-3/challenge/challenge-perkalian-unik.md)
-- :anchor:
-[[**Exercises 11**] Deret Aritmatika](./week-3/challenge/challenge-deret-aritmatika.md)
-- :anchor:
-[[**Exercises 12**] Deret Geometri](./week-3/challenge/challenge-deret-geometri.md)
+
 
 ## Kamis - More Arrays + Multidimensional Array
 
@@ -70,13 +65,23 @@ Kamu telah mencoba berbagai macam soal, menggunakan array maupun tidak. Tentunya
 Hari ini, kamu akan bermain dengan array dan bentuk selanjutnya, yaitu array multidimensi. Tenang saja, array multidimensi konsep nya sama persis dengan array satu dimensi!
 
 - :anchor:
-[[**Exercises 13**] Target Terdekat](./week-3/challenge/challenge-target-terdekat.md)
+[[**Exercises 11**] Deret Aritmatika](./week-3/challenge/challenge-deret-aritmatika.md)
+- :anchor:
+[[**Exercises 12**] Target Terdekat](./week-3/challenge/challenge-target-terdekat.md)
+
+## Jumat 
+
+- :anchor:
+[[**Exercises 13**] Deret Geometri](./week-3/challenge/challenge-deret-geometri.md)
 - :anchor:
 [[**Exercises 14**] Mengelompokkan Angka](./week-3/challenge/challenge-kelompok-angka.md)
 - :anchor:
 [[**Exercises 15**] Mengelompokkan Hewan](./week-3/challenge/challenge-kelompok-hewan.md)
 
-## Sabtu dan Minggu
+## Sabtu 
+[Live Code 1](./ujian/live-code-2.md)
+
+## Minggu
 
 - [Kegiatan Akhir Pekan](./week-3/learn/kegiatan-akhir-pekan-3.md)
 
