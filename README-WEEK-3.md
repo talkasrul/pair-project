@@ -79,7 +79,7 @@ Hari ini, kamu akan bermain dengan array dan bentuk selanjutnya, yaitu array mul
 [[**Exercises 15**] Mengelompokkan Hewan](./week-3/challenge/challenge-kelompok-hewan.md)
 
 ## Sabtu 
-[Live Code 1](./ujian/live-code-2.md)
+[Live Code 2](./ujian/live-code-2.md)
 
 ## Minggu
 
