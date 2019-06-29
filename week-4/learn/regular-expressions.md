@@ -4,8 +4,8 @@ Regular Expression atau disingkat Regex adalah suatu pattern / deretan karakter 
 
 ## Objectives
 
-- ▢ Mengetahui Kegunaan Regular Expressions
-- ▢ Memahami simbol-simbol yang digunakan pada Regular Expressions
+- Mengetahui Kegunaan Regular Expressions
+- Memahami simbol-simbol yang digunakan pada Regular Expressions
 
 ## Learnings
 
