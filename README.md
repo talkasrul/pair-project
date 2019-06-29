@@ -13,6 +13,6 @@ Step 1 adalah aktivitas yang mempersiapkan kamu untuk mampu memahami dan masuk k
 Materi di bagi ke dalam enam minggu, yang tiap minggu nya terdiri dari berbagai fokus materi. Kebanyakan dari materi dan tantangan yang tertera pada repositori ini hanya dapat di akses oleh murid yang sedang aktif di dalam step 1.
 
 ### [Week 1: Membuat Website Pertama Saya](./README-WEEK-1.md)
-### [Week 2: Mengenal JavaScript](./README-WEEK-2.md)
-### [Week 3: Mendalami JavaScript](./README-WEEK-3.md)
-### [Week 4: Lebid dalam lagi JavaScript](./README-WEEK-4.md)
+### [Week 2: Hello world! Javascript](./README-WEEK-2.md)
+### [Week 3: Memahami JavaScript](./README-WEEK-3.md)
+### [Week 4: Mendalami JavaScript](./README-WEEK-4.md)
