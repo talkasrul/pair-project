@@ -76,10 +76,25 @@ Berdasarkan data array diatas tampilkan atau akses:
 Jumlah Anak Panerangan dan Siti Alom adalah 6 orang
 ```
 
+**jawab:**
+
+```javascript
+console.log('Jumlah Anak Panerangan dan Siti Alom adalah ' + family[2].length + ' orang')
+```
+
 2. Siapa saja anak dari Saparuddin dan Santi
 ```bash
 Anak ke-1: Ridho
 Anak ke-2: Farel
 Anak ke-3: Kandar
 Anak ke-4: Hanif
+```
+
+**jawab:**
+
+```javascript
+var anak_saparuddin = family[2][0][2]
+for(var i = 0; i < anak_saparuddin.length; i++) {
+  console.log('Anak ke- '+ Number(i+1) + ' : ' + anak_saparuddin[i])
+}
 ```
