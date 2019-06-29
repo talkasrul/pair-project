@@ -39,11 +39,9 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercises 5**] Palindrome](./week-3/challenge/challenge-palindrome.md)
+[[**Exercises 4**] Palindrome](./week-3/challenge/challenge-palindrome.md)
 - :anchor:
-[[**Exercises 6**] Palindrome Angka](./week-3/challenge/challenge-palindrome-angka.md)
-- :anchor:
-[[**Exercises 7**] Hitung Jumlah Kata](./week-3/challenge/challenge-hitung-jumlah-kata.md)
+[[**Exercises 5**] Hitung Jumlah Kata](./week-3/challenge/challenge-hitung-jumlah-kata.md)
 
 ## Rabu - More Logic Challenges
 
@@ -51,11 +49,11 @@ Hari baru, tantangan baru. Setelah belajar tentang array and solve berbagai prob
 
 Tugas :
 - :anchor:
-[[**Exercises 8**] Pasangan Angka Terbesar](./week-3/challenge/challenge-pasangan-terbesar.md)
+[[**Exercises 6**] Pasangan Angka Terbesar](./week-3/challenge/challenge-pasangan-terbesar.md)
 - :anchor:
-[[**Exercises 9**] Cari Mean](./week-3/challenge/challenge-cari-mean.md)
+[[**Exercises 7**] Cari Mean](./week-3/challenge/challenge-cari-mean.md)
 - :anchor:
-[[**Exercises 10**] Perkalian Unik](./week-3/challenge/challenge-perkalian-unik.md)
+[[**Exercises 8**] Perkalian Unik](./week-3/challenge/challenge-perkalian-unik.md)
 
 
 ## Kamis - More Arrays + Multidimensional Array
@@ -65,18 +63,14 @@ Kamu telah mencoba berbagai macam soal, menggunakan array maupun tidak. Tentunya
 Hari ini, kamu akan bermain dengan array dan bentuk selanjutnya, yaitu array multidimensi. Tenang saja, array multidimensi konsep nya sama persis dengan array satu dimensi!
 
 - :anchor:
-[[**Exercises 11**] Deret Aritmatika](./week-3/challenge/challenge-deret-aritmatika.md)
-- :anchor:
-[[**Exercises 12**] Target Terdekat](./week-3/challenge/challenge-target-terdekat.md)
+[[**Exercises 9**] Target Terdekat](./week-3/challenge/challenge-target-terdekat.md)
 
 ## Jumat 
 
 - :anchor:
-[[**Exercises 13**] Deret Geometri](./week-3/challenge/challenge-deret-geometri.md)
+[[**Exercises 10**] Mengelompokkan Angka](./week-3/challenge/challenge-kelompok-angka.md)
 - :anchor:
-[[**Exercises 14**] Mengelompokkan Angka](./week-3/challenge/challenge-kelompok-angka.md)
-- :anchor:
-[[**Exercises 15**] Mengelompokkan Hewan](./week-3/challenge/challenge-kelompok-hewan.md)
+[[**Exercises 11**] Mengelompokkan Hewan](./week-3/challenge/challenge-kelompok-hewan.md)
 
 ## Sabtu 
 [Live Code 2](./ujian/live-code-2.md)

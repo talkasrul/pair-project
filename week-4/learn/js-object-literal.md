@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- ▢ Memahami pembuatan object sebagai pair key: value tanpa menggunakan class
+- Memahami pembuatan object sebagai pair key: value tanpa menggunakan class
 
 ### Object
 
