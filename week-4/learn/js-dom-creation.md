@@ -2,12 +2,12 @@
 
 ## Objectives
 
-Dalam aplikasi web, kita tidak terbatas memanfaatkan DOM untuk dimanipulasi atau ditambahkan event-event tertentu. Kita juga dapat membuat DOM baru menggunakan JavaScript. Bahkan, kita dapat membuat sebuah halaman web yang full dengan element HTML namun script HTML kita sangt sedikit, dan hampir seluruhnya di render menggunakan JavaScript. Prinsip inilah yang dilakukan oleh Angular, React, dan teknologi front-end lainnya untuk merender DOM.
+Dalam aplikasi web, kita tidak terbatas memanfaatkan DOM untuk dimanipulasi atau ditambahkan event-event tertentu. Kita juga dapat membuat DOM baru menggunakan JavaScript. Bahkan, kita dapat membuat sebuah halaman web yang full dengan element HTML namun script HTML kita sangat sedikit, dan hampir seluruhnya di render menggunakan JavaScript. Prinsip inilah yang dilakukan oleh Angular, React, dan teknologi front-end lainnya untuk merender DOM.
 
 **DOM**
 
-- ▢ Memahami DOM Creation
-- ▢ Menyusun Layout Web dengan JavaScript
+- Memahami DOM Creation
+- Menyusun Layout Web dengan JavaScript
 
 ## Learnings
 
