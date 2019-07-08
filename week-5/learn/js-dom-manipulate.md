@@ -5,7 +5,7 @@ Dapat melakukan manipulasi DOM dengan baik
 
 ## Learning
 
-### Membuat element
+### Membuat element dan menambah attribute
 Dengan DOM, kamu dapat membuat elemen baru menggunakan `createElement('namaElement')`, kamu juga dapat menambahkan attribute pada elemen tersebut dengan  `setAttribute('nama attribute', 'nilai attribute')`.
 
 Perhatikan dan cobakan contoh berikut.
