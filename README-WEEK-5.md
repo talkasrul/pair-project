@@ -8,6 +8,8 @@ Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu aka
 - :notebook_with_decorative_cover:
 [Selector DOM](./week-5/llearn/js-dom-basic.md)
 
+:anchor: [Buku Tamu](./week-5/challenge/buku-tamu.md)
+
 ## Selasa - Document Object Model
 Mulai hari ini, kamu akan berkenalan dengan DOM, topik baru yang dapat kamu manfaatkan untuk berlatih memanipulasi halaman HTML dan tampilannya dengan JavaScript. (Yap, betul. Back to HTML!)
 
