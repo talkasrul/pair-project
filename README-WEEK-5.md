@@ -18,7 +18,7 @@ Mulai hari ini, kamu akan berkenalan dengan DOM, topik baru yang dapat kamu manf
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
-[Menjelajah DOM](./week-4/learn/js-dom-transversing.md)
+[DOM Manipulasi](./week-5/learn/js-dom-manipulate.md)
 
 Tugas :
 - 💪
