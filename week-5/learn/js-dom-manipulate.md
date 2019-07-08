@@ -8,6 +8,8 @@ Dapat melakukan manipulasi DOM dengan baik
 ### Membuat element dan menambah attribute
 Dengan DOM, kamu dapat membuat elemen baru menggunakan `createElement('namaElement')`, kamu juga dapat menambahkan attribute pada elemen tersebut dengan  `setAttribute('nama attribute', 'nilai attribute')`.
 
+Untuk memasukkan elemen ke element lain dengan kode berikut `namaInduk.appendChild(namaAnak)`
+
 Perhatikan dan cobakan contoh berikut.
 
 ```html
