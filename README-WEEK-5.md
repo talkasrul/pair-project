@@ -29,7 +29,7 @@ Tugas :
 
 ## Rabu - Jumat - Final Project!
 
-Tibalah di hari terakhir fase 0. Kamu akan ditantang untuk membuat final project web app apapun memanfaatkan topik DOM. Final Project ini paling lambat dikumpulkan di sabtu malam agar kamu punya waktu luang untuk berkreasi dan mempersiapkan diri ke fase 1. Final Project sebagai syarat untuk student yang telah memenuhi final live code dan nilai tugas agar bisa masuk ke fase 1.
+? Materi sedang disusun
 
 - :anchor:
 [[**Final Project**] Membuat Web App menggunakan HTML, CSS, dan JavaScript](./week-4/challenge/anchor-js-dom-web-app.md)
