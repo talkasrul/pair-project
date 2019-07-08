@@ -5,7 +5,8 @@ DOM merupakan singkatan dari Data Object Model yang digunakan untuk memanipulasi
 DOM akan dimuat oleh browser ketika semua file html sudah selesai dijalankan.
 
 ## Selector DOM
-- `getElementById("namaId")`
+
+### Berdasarkan ID - `getElementById("namaId")`
 
 ```html
 <div id="boxs">
@@ -16,7 +17,7 @@ DOM akan dimuat oleh browser ketika semua file html sudah selesai dijalankan.
 </script>
 ```
 
-- `getElementsByClassName("namaClass")`
+### Berdasarkan Class `getElementsByClassName("namaClass")`
 ```html
 <div class="box"></div>
 <div class="box"></div>
@@ -29,7 +30,7 @@ DOM akan dimuat oleh browser ketika semua file html sudah selesai dijalankan.
 </script>
 ```
 
-- `getElementsByTagName("namaTag")`
+### Berdasarkan Tag `getElementsByTagName("namaTag")`
 ```html
 <p> Daftar Warna </p>
 <ul>
@@ -39,5 +40,25 @@ DOM akan dimuat oleh browser ketika semua file html sudah selesai dijalankan.
 <script>
   document.getElementByTagName("li")[0].innerHTML = "Merah"
   document.getElementByTagName("li")[1].innerHTML = "Putih"
+</script>
+```
+
+Contoh mengambil data dari form input
+
+```html
+<form onsubmit="submitForm()">
+    <label>
+        Nama: <br />
+        <input type="text" id="name">
+    </label>
+    <button type="submit">Cek Umur</button>
+</form>
+
+<script>
+    function submitForm() {
+        var name = document.getElementById('name').value;
+
+        alert( "Halo " + name)
+    }
 </script>
 ```
