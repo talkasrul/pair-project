@@ -21,14 +21,8 @@ Materi & Referensi :
 [DOM Manipulasi](./week-5/learn/js-dom-manipulate.md)
 
 Tugas :
-- 💪
-[[**Latihan Pribadi 1**] Memanipulasi Element HTML](./week-4/challenge/anchor-js-dom-manipulation.md)
-- 💪
-[[**Latihan Pribadi 2**] Memanipulasi dan Menjelajah DOM](./week-4/challenge/anchor-js-dom-transverse-manipulation.md)
-- 💪
-[[**Latihan Pribadi 3**] Membuat Validasi Form menggunakan JavaScript](./week-4/challenge/anchor-js-form-validation.md)
-- 💪
-[[**Latihan Pribadi 4**] Membuat Element HTML Dinamis Dengan JavaScript](./week-4/challenge/anchor-js-dom-creation.md)
+
+:anchor: [Game Suit](./week-5/challenge/game-suit.md)
 
 ## Rabu - Jumat - Final Project!
 
