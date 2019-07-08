@@ -3,7 +3,7 @@
 Dikarenakan minggu lalu ada masalah yang harus diselesaikan yang mengakibatkan pembelajaran minggu ke 4 tidak selesai, maka ditambah materi ke minggu ke 5 sehingga pembelajaran dapat terkejarkan dan dapat dipahami dengan baik.
 
 ## Senin - Document Object Model (DOM)
-Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik! Kamu akan ditantang dengan DOM di week 6 setelah final live coding, jadi silakan baca materi ini setelah kamu telah siap untuk mengambil final live coding di Senin pekan depan.
+Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik!
 
 - :notebook_with_decorative_cover:
 [Selector DOM](./week-5/learn/js-dom-basic.md)
