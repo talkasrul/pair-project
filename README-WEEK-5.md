@@ -6,7 +6,7 @@ Dikarenakan minggu lalu ada masalah yang harus diselesaikan yang mengakibatkan p
 Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik! Kamu akan ditantang dengan DOM di week 6 setelah final live coding, jadi silakan baca materi ini setelah kamu telah siap untuk mengambil final live coding di Senin pekan depan.
 
 - :notebook_with_decorative_cover:
-[Membuat DOM](./week-4/learn/js-dom-creation.md)
+[Selector DOM](./week-5/llearn/js-dom-basic.md)
 
 ## Selasa - Document Object Model
 Mulai hari ini, kamu akan berkenalan dengan DOM, topik baru yang dapat kamu manfaatkan untuk berlatih memanipulasi halaman HTML dan tampilannya dengan JavaScript. (Yap, betul. Back to HTML!)
