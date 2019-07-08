@@ -1,6 +1,7 @@
-#Berkreasi Membuat Web App dengan Memanfaatkan DOM
+# Berkreasi Membuat Web App dengan Memanfaatkan DOM
 
-Setelah satu pekan kita menguasai DOM menggunakan JavaScript, saatnya kita berkreasi membuat aplikasi web yang interaktif!
+Setelah kita mempelajari DOM sepekan kebelakang, maka sekaranglah saatnya kita buktikan kemampuan kita untuk membuat website yang interaktif dan menarik. Kamu boleh membuat apasaja dengan syarat terdapat didalamnya penerapan DOM.
+Misal Game sederhana, Web Pencarian, Blog, dll.
 
 ## Objectives
 
@@ -8,7 +9,7 @@ Setelah satu pekan kita menguasai DOM menggunakan JavaScript, saatnya kita berkr
 
 ## Directions
 
-- Buatlah web app dengan ide dan kreativitas kamu, bisa berupa game, todo-list app, quiz, dan lain-lain dengan memanfaatkan DOM.
+- Buatlah web app dengan ide dan kreativitas kamu, bisa berupa `game`, `todo-list app`, `quiz`, dan lain-lain dengan memanfaatkan DOM.
 - Penggunaan sintaks tidak dibatasi! Sepenuhnya akan menjadi kreativitasmu!
 - Setelah selesai, **taruh project ini di Github dan jadikan Github Pages baru** supaya semua orang bisa melihat aplikasi atau game yang kamu buat!
 
