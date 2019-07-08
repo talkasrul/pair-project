@@ -8,6 +8,9 @@ Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu aka
 - :notebook_with_decorative_cover:
 [Selector DOM](./week-5/llearn/js-dom-basic.md)
 
+
+Tugas
+
 :anchor: [Buku Tamu](./week-5/challenge/buku-tamu.md)
 
 ## Selasa - Document Object Model
