@@ -1,7 +1,7 @@
 # AA Academy
 
 Aa Akademy akan membantu kamu untuk menjadi seorang Developer Javascript, materi pada Aa Academy akan dibagi menjadi 4 step:
-1. Step 1 - Intro to Javascript
+1. Step 1 - Intro to Javascript Programmer
 2. Step 2 - Frontend Programmer
 3. Step 3 - Backend Programmer
 4. Step 4 - Full Stack Programmer
