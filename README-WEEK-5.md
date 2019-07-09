@@ -1,5 +1,7 @@
 # Data Object Model
 
+![Week 5](./week-5/assets/week-5.jpg)
+
 Dikarenakan minggu lalu ada masalah yang harus diselesaikan yang mengakibatkan pembelajaran minggu ke 4 tidak selesai, maka ditambah materi ke minggu ke 5 sehingga pembelajaran dapat terkejarkan dan dapat dipahami dengan baik.
 
 ## Senin - DOM Selector
