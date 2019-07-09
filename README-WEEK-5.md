@@ -2,7 +2,7 @@
 
 Dikarenakan minggu lalu ada masalah yang harus diselesaikan yang mengakibatkan pembelajaran minggu ke 4 tidak selesai, maka ditambah materi ke minggu ke 5 sehingga pembelajaran dapat terkejarkan dan dapat dipahami dengan baik.
 
-## Senin - Document Object Model
+## Senin - DOM Selector
 Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik!
 
 Materi & Referensi :
@@ -15,7 +15,7 @@ Tugas :
 
 :anchor: [Buku Tamu](./week-5/challenge/buku-tamu.md)
 
-## Selasa - Document Object Model
+## Selasa - DOM Manipulasi
 Mulai hari ini, kamu akan berkenalan dengan DOM, topik baru yang dapat kamu manfaatkan untuk berlatih memanipulasi halaman HTML dan tampilannya dengan JavaScript. (Yap, betul. Back to HTML!)
 
 Materi & Referensi :
