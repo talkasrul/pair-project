@@ -27,7 +27,7 @@ Tugas :
 
 :anchor: [Game Suit](./week-5/challenge/game-suit.md)
 
-## Rabu - Document Object Model
+## Rabu - DOM Event
 Okay, kamu telah mengenal DOM secara sederhana, sekarang kamu akan belajar DOM dengan memanfaatkan `event`. Event adalah tingkahlaku atau aksi pada DOM sendiri.
 
 Materi & Referensi :
@@ -39,16 +39,22 @@ Tugas :
 
 :anchor: [Game Lucky dadu](./week-5/challenge/game-lucky-dadu.md)
 
-## Kamis - Jumat - Final Project!
+## Kamis - DOM Request
+Kamu akan berinteraksi dengan server web, untuk itu maka kamu butuh mengetahui request agar web yang kamu buat dapat berkomunikasi dari server (sumber data berada).
 
-? Materi sedang disusun
+Materi & Referensi :
+
+:notebook_with_decorative_cover:
+[DOM Request](./week-5/learn/js-dom-request.md)
+
+Tugas : 
+
+Materi ini hanya pengenalan saja, jadi untuk tugas ditiadakan, lanjutkan ke Final Project kamu... :smile:
+
+## Jumat sd Minggu - Final Project!
 
 - :anchor:
 [[**Final Project**] Membuat Web App menggunakan HTML, CSS, dan JavaScript](./week-4/challenge/anchor-js-dom-web-app.md)
-
-## Sabtu dan Minggu
-
-- [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
 
 Selamat berpetualang dengan logika lebih lanjut! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
