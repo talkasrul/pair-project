@@ -53,8 +53,10 @@ Materi ini hanya pengenalan saja, jadi untuk tugas ditiadakan, lanjutkan ke Fina
 
 ## Jumat sd Minggu - Final Project!
 
-- :anchor:
+:anchor:
 [[**Final Project**] Membuat Web App menggunakan HTML, CSS, dan JavaScript](./week-4/challenge/anchor-js-dom-web-app.md)
+
+-----
 
 Selamat berpetualang dengan logika lebih lanjut! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
