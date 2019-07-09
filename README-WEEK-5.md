@@ -36,7 +36,8 @@ Materi & Referensi :
 [DOM Event](./week-5/learn/js-dom-event.md)
 
 Tugas :
-?
+
+:anchor: [Game Lucky dadu](./week-5/challenge/game-lucky-dadu.md)
 
 ## Kamis - Jumat - Final Project!
 
