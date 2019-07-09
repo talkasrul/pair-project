@@ -2,7 +2,7 @@
 
 Dikarenakan minggu lalu ada masalah yang harus diselesaikan yang mengakibatkan pembelajaran minggu ke 4 tidak selesai, maka ditambah materi ke minggu ke 5 sehingga pembelajaran dapat terkejarkan dan dapat dipahami dengan baik.
 
-## Senin - Document Object Model (DOM)
+## Senin - Document Object Model
 Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik!
 
 Materi & Referensi :
@@ -27,7 +27,18 @@ Tugas :
 
 :anchor: [Game Suit](./week-5/challenge/game-suit.md)
 
-## Rabu - Jumat - Final Project!
+## Rabu - Document Object Model
+Okay, kamu telah mengenal DOM secara sederhana, sekarang kamu akan belajar DOM dengan memanfaatkan `event`. Event adalah tingkahlaku atau aksi pada DOM sendiri.
+
+Materi & Referensi :
+
+:notebook_with_decorative_cover:
+[DOM Event](./week-5/learn/js-dom-event.md)
+
+Tugas :
+?
+
+## Kamis - Jumat - Final Project!
 
 ? Materi sedang disusun
 
