@@ -1,5 +1,7 @@
 # AA Academy
 
+![Asrul Harahap](https://avatars2.githubusercontent.com/u/15111402?s=100&v=4 "Asrul Harahap")
+
 Aa Akademy akan membantu kamu untuk menjadi seorang Developer Javascript, materi pada Aa Academy akan dibagi menjadi 4 step:
 1. Step 1 - Intro to Javascript Programmer
 2. Step 2 - Frontend Programmer
