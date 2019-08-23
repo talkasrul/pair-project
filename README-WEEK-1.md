@@ -21,10 +21,14 @@ Berikut berbagai modul kegiatan inti yang dapat kamu lihat, baca, tonton, lakuka
 Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya Academy, kita akan menggunakan grup [Slack](https://slack.com/) atau [Whatsapp](https://web.whatsapp.com).
 
 Panduan:
+
 :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
+
 :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan dan kumpulkan.
 💪 **Self Training** adalah tugas atau tantangan opsional yang walaupun tidak dikumpulkan, bila kamu selesaikan dengan baik, pembelajarannya maksimal! 😎
+
 :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu sebagai calon developer masa depan
+
 :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuanmu
 
 **AA Academy, Platform Pengumpulan Tugas**
@@ -41,8 +45,10 @@ Hari pertamamu akan dimulai dengan memperkenalkan dirimu dan bagaimana motivasi 
 Materi & Referensi :
 :notebook_with_decorative_cover:
 [Mempelajari dasar HTML5](./week-1/learn/html5-basics.md)
+
 :notebook_with_decorative_cover:
 [Mempelajari dasar HTML5 forms](./week-1/learn/html5-forms-basics.md)
+
 :books:
 [Mengenal Dunia Web dan Internet](./week-1/learn/internet-web.md)
 
