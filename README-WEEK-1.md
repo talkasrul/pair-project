@@ -56,6 +56,7 @@ Tugas :
 
 :anchor:
 [[**Exercises 1**] Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
+
 💪
 [[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](./week-1/challenge/anchor-laman-web-pertamaku.md)
 
@@ -77,7 +78,9 @@ HTML ibarat kerangka manusia yang berupa adanya kepala, badan, dan lainnya. Seka
 Kamu telah mempelajari dasar css pada selasa kemarin di codeacademy, sekarang pergunakan itu untuk menghias website kamu dengan melakukan tugas berikut.
 
 Tugas:
+
 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](./week-1/challenge/anchor-css-selector-and-styling.md)
+
 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](./week-1/challenge/anchor-css-layouting.md)
 
 Memahami terminal adalah hal dasar yang harus dipahami oleh developer, ini dikarenakan aplikasi GUI hanya memberikan fungsi yang terbatas dan hanya ditujukan untuk kalangan awam,sedangkan user administrator, developer, atau teknisi memerlukan kendali penuh atas mesin linux, kendali penuh linux hanya bisa diakses melalui Perintah Linux/command line interface baik melalui shell atau terminal emulator.
@@ -100,6 +103,7 @@ Materi & Referensi :
 [Melatih penggunaan command line serta Git dan GitHub lebih banyak](./week-1/learn/cli-git-github-practice.md)
 
 Tugas :
+
 💪
 [[**Latihan Pribadi 5**] Membuat Repositori](./week-1/challenge/git-repo-anchor.md)
 
@@ -120,6 +124,7 @@ Materi & Referensi :
 [Mengenal adaptive web design dan responsive web design (RWB)](./week-1/learn/web-design.md)
 
 Tugas :
+
 :anchor:
 [[**Exercise 3**] - Website yang dihosting dengan Github Pages](./week-1/learn/github-pages-rev.md) - `dicek dihari minggu`
 
