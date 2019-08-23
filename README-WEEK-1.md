@@ -53,6 +53,7 @@ Materi & Referensi :
 [Mengenal Dunia Web dan Internet](./week-1/learn/internet-web.md)
 
 Tugas :
+
 :anchor:
 [[**Exercises 1**] Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
 💪
@@ -62,10 +63,12 @@ Tugas :
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik!
 
 Materi & Referensi :
+
 :notebook_with_decorative_cover:
 [Mempelajari dasar CSS3](./week-1/learn/css3-basics.md)
 
 Tugas :
+
 :anchor: [[**Exercises 2**] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
 
 ## Rabu - Menghias halaman website dan menguasai terminal
@@ -92,6 +95,7 @@ Materi & Referensi :
 
 :notebook_with_decorative_cover:
 [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](./week-1/learn/git-github-basics.md)
+
 :notebook_with_decorative_cover:
 [Melatih penggunaan command line serta Git dan GitHub lebih banyak](./week-1/learn/cli-git-github-practice.md)
 
@@ -108,8 +112,10 @@ menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web d
 [Kegiatan Akhir Pekan](./week-1/learn/kegiatan-weekend-1.md)
 
 Materi & Referensi :
+
 :notebook_with_decorative_cover:
 [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./week-1/learn/web-dev-process.md)
+
 :notebook_with_decorative_cover:
 [Mengenal adaptive web design dan responsive web design (RWB)](./week-1/learn/web-design.md)
 
