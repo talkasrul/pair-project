@@ -3,10 +3,10 @@
 ![Asrul Harahap](https://avatars2.githubusercontent.com/u/15111402?s=100&v=4 "Asrul Harahap")
 
 Aa Akademy akan membantu kamu untuk menjadi seorang Developer Javascript, materi pada Aa Academy akan dibagi menjadi 4 step:
-1. Step 1 - Intro to Javascript Programmer
-2. Step 2 - Backend Programmer
-3. Step 3 - Frontend Programmer
-4. Step 4 - Mobile Programmer
+- [ ] Step 1 - [Intro to Javascript Programmer](https://github.com/talkasrul/step-1)
+- [ ] Step 2 - [Backend Programmer](https://github.com/talkasrul/step-2)
+- [ ] Step 3 - [Frontend Programmer](https://github.com/talkasrul/step-3)
+- [ ] Step 4 - [Mobile Programmer](https://github.com/talkasrul/step-4)
 
 # Step 1
 
@@ -18,4 +18,4 @@ Materi di bagi ke dalam enam minggu, yang tiap minggu nya terdiri dari berbagai 
 - [x] [Week 2: Hello world! Javascript](./README-WEEK-2.md)
 - [x] [Week 3: Memahami JavaScript](./README-WEEK-3.md)
 - [x] [Week 4: Mendalami JavaScript](./README-WEEK-4.md)
-- [ ] [Week 5: Data Object Model dan Project Akhir](./README-WEEK-5.md)
+- [x] [Week 5: Data Object Model dan Project Akhir](./README-WEEK-5.md)
