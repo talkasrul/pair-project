@@ -25,6 +25,7 @@ Panduan:
 :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
 
 :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan dan kumpulkan.
+
 💪 **Self Training** adalah tugas atau tantangan opsional yang walaupun tidak dikumpulkan, bila kamu selesaikan dengan baik, pembelajarannya maksimal! 😎
 
 :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu sebagai calon developer masa depan
@@ -95,6 +96,7 @@ Materi & Referensi :
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya perkaya website kamu dengan gambar dan tabel. Dan hari ini, kamu juga akan berkenalan dengan Git, sebuah tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesaikan hari ini, berarti kamu telah punya website kamu sendiri secara online!
 
 Materi & Referensi :
+
 
 :notebook_with_decorative_cover:
 [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](./week-1/learn/git-github-basics.md)
