@@ -23,3 +23,4 @@ Materi di bagi ke dalam enam minggu, yang tiap minggu nya terdiri dari berbagai 
 # Extra
 
 [Latihan CSS 1](./layout-css.md)
+[Latihan CSS 2](./menu-css.md)
