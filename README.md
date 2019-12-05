@@ -19,3 +19,7 @@ Materi di bagi ke dalam enam minggu, yang tiap minggu nya terdiri dari berbagai 
 - [x] [Week 3: Memahami JavaScript](./README-WEEK-3.md)
 - [x] [Week 4: Mendalami JavaScript](./README-WEEK-4.md)
 - [x] [Week 5: Data Object Model dan Project Akhir](./README-WEEK-5.md)
+
+# Extra
+
+[Latihan CSS 1](./layout-css.md)
