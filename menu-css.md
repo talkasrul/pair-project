@@ -1,107 +1,100 @@
-## Menbuat daftar produk
+## Membuat Dropdown Menu
 
-Sekarang kita akan mengisi bagian konten halaman. Bagian konten akan kita isi dengan daftar produk. Ubah kode bagian content menjadi seperti ini:
+Misalkan kita ingin bila menu About di header disorot pointer mouse, dia akan menampilkan submenu, dan bila pointer dijauhkan, sub menunya disembunyikan kembali. Untuk membuat fitur tersebut, kita membutuhkan property position untuk mengatur tata letak sub menunya, dan juga property display untuk menampilkan dan menyembunyikan submenu.
+
+Tambahkan elemen html berikut di bagian .menu di header:
 
 ```html
-<div class="content">
-    <h2>My Articles</h2>
-    <h2>My Products</h2>
- 
-    <div class="thumbnail">
-        <img src="http://via.placeholder.com/250x150">
-        <h2>Product 2</h2>
-        <p>Rp 250.000</p>
-    </div>
+<div class="menu">
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a>
+            <ul class="submenu">
+                <li><a href="#">CV</a></li>
+                <li><a href="#">Education</a></li>
+                <li><a href="#">Portfolio</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Contact</a></li>
+    </ul>
 </div>
 ```
 
-Kemudian pada bagian `<style>` tambahkan CSS berikut:
+Kemudian tambahkan CSS selector baru di bagian style:
 
 ```css
-.thumbnail {
-    background-color: white;
-    text-align: center;
-    padding: 10px;
-}
-```
-Hasil dari kode di atas akan nampak seperti ini:
-
-![](https://lh5.googleusercontent.com/Q-by9xf4B1IkGSDx7La3nx93BsbDWmM7AK6y3WQopmuB9-JMreaaH7LIebFXPEoyVyiKWVxy8DHLivSVw6vricmiEnVyrzVbHbhxN-PcVAMWq9Fq-YTpwA9VWjiXUK5VDn0jA4Ux)
-
-Kita ingin agar dalam satu baris, terdapat 3 buah produk yang ditampilkan. Sedangkan pada hasil kode yang sudah kita miliki, kita hanya memiliki satu buah produk yang memenuhi semua lebar baris. Oleh karena itu, kita harus mengatur width dari elemen .thumbnail agar dalam satu baris dapat masuk 3 buah produk.
-
-Tambahkan baris kode CSS berikut pada bagian selector .thumbnail:
-
-```css
-.thumbnail {
-    background-color: white;
-    text-align: center;
-    padding: 10px;
-    width: 225px;
-    margin: 10px;
+ul.submenu {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    text-align: left;
 }
 ```
 
-Kita atur nilai width menjadi 225px dengan asumsi dari total lebar parent-nya yang 800px dapat diisi dengan tiga buah kotak thumbnail berukuran 225px. Selain itu kita juga menambahkan margin pada thumbnail agar jarak satu sama lain tidak berhimpitan. Hasil akhir dari pembaharuan kode di atas akan menjadi seperti ini:
+Kita menambahkan elemen `<ul>` baru di dalam list menu About. Kemudian kita juga menambahkan style agar submenu tersebut tampil dengan latar warna dan border. Hasilnya akan nampak seperti ini:
 
-![](https://lh5.googleusercontent.com/2kJfDtoOhBXa6K1oMT5z8vha75M0dTeMAB9ji6fZysxJHLUZSFw4USf83gDx9s4QdGOzOM7PDUY4-djj6QIhgbWl3NhcjeYQsAa7EFq_FlM1DShXr_TS89IhC9m8eDET-c4N33lm)
+![](https://lh5.googleusercontent.com/zsgO_miQUcZklegHwGrv4vhp3LJoXrwJR-QD2GuUFDbYI485Z2-4ot2MwshC3KCjFzf9Zhfv-sKW2G_CaTEcR2c08CfShCScgYeQdD1qTFpRcY_rTPEIKTX7ki6G8251H0YvC-yH)
 
-Dan bila kita menyalin elemen .thumbnail menjadi 3 buah, akan nampak seperti ini:
-
-gambar1
-
-Ternyata .thumbnail kedua dan ketiga akan ditampilkan ke bawah, meskipun width dari setiap thumbnail sudah dibuat lebih kecil. Hal ini terjadi karena sifat display:block dari elemen .thumbnail yang akan mengisi lebar dari parent-nya. Adapun ruang kosong di sebelah kanan dari setiap elemen .thumbnail setelah widthnya diperkecil akan otomatis menjadi margin dari elemen tersebut.
-
-Tambahkan CSS berikut pada selector .thumbnail:
+Masih belum sesuai dengan yang kita harapkan karena seharusnya list sub menunya tampil ke bawah, bukan ke samping. Hal ini terjadi karena pada bagian sebelumnya kita memberi style pada elemen `<li>` agar ditampilkan menyamping dengan property display:inline-block, sehingga submenu yang juga menggunakan tag `<li>` akan terkena dampaknya. Untuk itu kita tambahkan style untuk list yang khusus ada di dalam .submenu agar ditampilkan dengan display:block lagi:
 
 ```css
-.thumbnail {
-    background-color: white;
-    text-align: center;
-    padding: 10px;
-    width: 225px;
-    margin: 10px;
-    float: left;
+ul.submenu li {
+    display: block;
 }
-.thumbnail img {
-    width: 100%;
+ul.submenu li a {
+    display: block;
+    padding: 5px 10px;
 }
 ```
 
-Pada `.thumbnail`, kita tambahkan property float:left sehingga ruang sisa dari setiap barisnya akan kosong dan diisi oleh elemen di bawahnya. Selain itu kita juga menambahkan selector baru yakni untuk elemen image yang ada di dalam `.thumbnail` agar ukuran widthnya mengikuti ukuran dari parentnya.
+Dengan demikian tampilan list sub menunya sekarang ditampilkan ke bawah.
 
-Hasil akhir dari pembaharuan kode kita akan tampil seperti ini:
-
-![](https://lh5.googleusercontent.com/hB-1gRcc-IAIZbkHHplM6dU0WWJlBY78R1RrnI7d9WbjL5THjZGVzK4v60Kx49Y0qOoRQi5Bbo5WLkRGVluWlaj-yv7IZ3f_OG1KWxk4jYInmYwQUlprNRgmunLDrccV4w_3veqa)
-
-Masalah selanjutnya yang harus kita tangani dari penggunaan float adalah membersihkan efek float. Bila Anda coba menyalin elemen .thumbnail menjadi 6 buah atau lebih, maka tampilannya akan seperti ini:
-
-![](https://lh5.googleusercontent.com/OoVVx9Ai98G-c82QLpi_QGMPrrdWxgWCDUtLEuqmlYPZpVb-j27Toypis5FElvqMVdbeP2T5FLtiAjV1oaVtNH7QXgNoI8xrqSNqx4Wl05sY8wXwfbhtm9IFA5darkl2AGgj9JgE)
-
-Seperti kita lihat, .thumbnail keluar dari kotak, dan teks footer naik mengisi ruang kosong di sebelah kanan .thumbnail terakhir. Untuk mengatasi hal ini, kita cukup menambahkan CSS overflow:auto pada parent dari .thumbnail, yakni pada elemen .content:
+Namun posisinya masih tumpang tindih dengan menu utama. Kita akan gunakan property position:absolute pada .submenu agar ia dapat diposisikan tidak mengikuti layout bawaannya. Pada bagian selector ul.submenu yang telah kita buat sebelumnya, tambahkan style berikut:
 
 ```css
-.content {
-    background-color: #ddd;
-    min-height: 500px;
-    overflow: auto;
+ul.submenu {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    left: 0;
 }
 ```
 
-Dengan demikian, efek float tidak akan mengenai elemen yang ada di bawahnya.
+Tampilan akhirnya akan jadi seperti ini:
 
-![](https://lh5.googleusercontent.com/fcUglH-zjQ-PYVEQMJQVWu_bMeX5qts16ZqUC4p6P5V4TuE5Tq4hKNNtsmrNWRzlQSkX-sqLEgrKYWx98qhdj--lGsVJbBbJc1FJu9NwN8eUjxgr6UTOnADbb06OqSwtY5wf1t46)
+![](https://lh5.googleusercontent.com/Ep6E4MS2GLGHymYcXBMTlN8bHQluOGyFKTfevKshFXolRewyDiM-MSp7IFF_qpTd1gPAHPQ2R5PDPAYojGeATptjYCuutwX_Y8CYVnYNGF5OlFwemG9BTpTu-YiM_tTCsNygJyT_)
 
-Terakhir kita tinggal merapikan konten untuk footer, dengan menambahkan padding dan rata tengah. Tambahkan CSS berikut pada bagian selector .footer:
+Seperti yang kita duga, posisinya akan relatif dari jendela browser, bukan dari parent-nya yaitu `<li>` untuk About. Hal ini terjadi karena saat ul.submenu diberi property position:absolute, dia akan naik satu layer/lapis ke atas dari elemen lain. Dan saat property top dan leftnya diatur, dia akan memposisikan diri dari elemen parent yang lapisannya sama, dalam kasus ini yaitu jendela browser.
+
+Kita ingin agar dia relatif dari parent `<li>`. Maka elemen `<li>` harus kita angkat juga satu lapis ke atas, menggunakan property position:relative. Tambahkan property tersebut pada selector .menu ul li:
 
 ```css
-.footer {
-    background-color: #ccc;
-    min-height: 50px;
-    padding: 20px;
-    text-align: center;
+.menu ul li {
+    display: inline-block;
+    position: relative;
 }
 ```
 
-![](https://lh5.googleusercontent.com/FP-ZUK6p2bohQqN97VCdqboAWsyMJzwfGQKG9fHRI4Vtd71TjtYcrQMwXnpv1R06f_L41tB004L4-2piJ2TnK4BtBeZUlaOkZO2v1PVLoUk7EMe-A6Ax07YMPWHPDMg3x38KTMXU)
+Hasilnya, `.submenu` kita sekarang akan diposisikan relatif dari parent `<li>`.
 
+![](https://lh5.googleusercontent.com/U61sO_HNzjUVJoNGMjyLUc16BE1qWH4BEYn8-VTtWso9rpAvYOc18rQt3azn-jk9g1GfHNCodBG9GT2wZVmnBDbPw-iHSFlWMOScuNa1P8Dx2yNgw5UHsKAVDb0NkZ7L62dlaHrL)
+
+Terakhir, kita akan sembunyikan .submenu dan hanya menampilkannya bila pointer mouse berada di atas menu About. Tambahkan CSS berikut pada style:
+
+```css
+ul.submenu {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    display: none;
+}
+.menu ul li:hover ul.submenu  {
+    display: block;
+}
+```
+
+Kita mengubah nilai default property display dari elemen ul.submenu menjadi none, sehingga dia tidak akan ditampilkan di browser. Kemudian kita membuat selector baru .menu > ul > li:hover ul.submenu yang artinya pilih ul.submenu yang ada di bawah li yang dihover oleh mouse. Kita ubah property displaynya menjadi block. Dengan demikian, ul.submenu akan ditampilkan hanya bila parent `<li>` nya di-hover mouse.
