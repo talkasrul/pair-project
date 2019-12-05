@@ -27,3 +27,5 @@ Materi di bagi ke dalam enam minggu, yang tiap minggu nya terdiri dari berbagai 
 [Latihan CSS 2](./produk-css.md)
 
 [Latihan CSS 3](./menu-css.md)
+
+[Latihan CSS 4](./jumbotron-css.md)
