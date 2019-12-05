@@ -103,7 +103,7 @@ Klik ikon (+) di bagian kanan atas font yang ingin dipilih:
 
 Maka akan muncul panel di bagian bawah jendela. Klik panel tersebut sehingga muncul keterangan kode yang harus kita salin di dokumen html kita:
 
-J1Qm9xI5ype-oTo3c2Yjb0_i-K2BJaA0ZlAOGrhyFRAuaYg6zvuP7O1QMNyba2hwaDXkDiOfomf8xkGIgWq-ItSLnk4FbnbjJW9DWPsCU71i_XjBLmQu-m5l1KLoOa5Afci3zSSA
+![](https://lh5.googleusercontent.com/J1Qm9xI5ype-oTo3c2Yjb0_i-K2BJaA0ZlAOGrhyFRAuaYg6zvuP7O1QMNyba2hwaDXkDiOfomf8xkGIgWq-ItSLnk4FbnbjJW9DWPsCU71i_XjBLmQu-m5l1KLoOa5Afci3zSSA)
 
 Pertama salin kode `<link href=”... >` dan simpan di bagian atas `<head>` sebelum `<style>` :
 
