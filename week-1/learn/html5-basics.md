@@ -33,14 +33,6 @@ Sintaks atau cara penulisan HTML biasanya terlihat seperti ini:
 </html>
 ```
 
-yang akan menghasilkan halaman web seperti ini jika di JSBin:
-
-![Contoh HTML di JSBin](../assets/html-jsbin.png)
-
-atau seperti ini jika di CodePen:
-
-![Contoh HTML di Codepen](../assets/html-codepen.png)
-
 Cobalah untuk mengetikkan contoh kode tersebut di dalam JSBin atau CodePen. Lihatlah secara langsung hasilnya di situ. Berikutnya kami akan menunjukkan hasilnya yang dihasilkan di JSBin saja.
 
 Sebagai pengetahuan umum, istilah sintaks merupakan kosa kata (vocabulary) dan tata bahasa (grammar) dari sebuah bahasa komputer, markup, dan pemrograman. Sama saja dengan kata-kata dan perintah-perintah ataupun instruksi untuk disusun sebagai sebuah hasil tertentu yang biasanya merupakan program aplikasi. Kita menggunakan sintaks tertentu untuk membuat pernyataan (statement) program, instruksi untuk bisa dieksekusi oleh browser, compiler, atau interpreter.
