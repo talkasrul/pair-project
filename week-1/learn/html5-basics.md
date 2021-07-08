@@ -62,7 +62,7 @@ Dari contoh sebelumnya, beberapa teks terdapat di antara tag pembuka dan penutup
 
 Inilah ilustrasi atau visualisasi yang HTML strukturkan:
 
-![HTML Visualization](../assets/html-visual.png)
+![HTML Visualization](https://www.researchgate.net/profile/Antanas-Cenys/publication/266611108/figure/fig10/AS:668860244045832@1536480117529/HTML-source-code-represented-as-tree-structure.png)
 
 Kita bisa menggabungkan atau mengumpulkan berbagai tag HTML yang berbeda di dalam satu sama lain. Dalam HTML, penyusunan tag sangat fleksibel.
 
