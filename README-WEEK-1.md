@@ -44,6 +44,7 @@ Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi d
 Hari pertamamu akan dimulai dengan memperkenalkan dirimu dan bagaimana motivasi andakemudian mempelajari hal paling pertama dalam pembuatan sebuah web, yaitu *HTML*! Mungkin anda sudah pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut di akhir!
 
 Materi & Referensi :
+
 :notebook_with_decorative_cover:
 [Mempelajari dasar HTML5](./week-1/learn/html5-basics.md)
 
@@ -96,7 +97,6 @@ Materi & Referensi :
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya perkaya website kamu dengan gambar dan tabel. Dan hari ini, kamu juga akan berkenalan dengan Git, sebuah tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesaikan hari ini, berarti kamu telah punya website kamu sendiri secara online!
 
 Materi & Referensi :
-
 
 :notebook_with_decorative_cover:
 [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](./week-1/learn/git-github-basics.md)
